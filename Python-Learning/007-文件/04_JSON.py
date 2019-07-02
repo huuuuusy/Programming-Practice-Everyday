@@ -30,7 +30,12 @@ def get_new_username():
 def greet_user():
     username = get_stored_username()
     if username:
-        print("Welcome back, " + username + "!")
+        correct = input("Are you " + username + "? (y/n) ")
+        if correct == 'y':
+            print("Welcome back, " + username + "!")
+        else:
+            username = get_new_username()
+            print("We'll remember you when you come back, " + username + "!")
     else:
         username = get_new_username()
         print("We'll remember you when you come back, " + username + "!")
