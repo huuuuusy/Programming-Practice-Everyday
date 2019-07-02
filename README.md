@@ -13,4 +13,8 @@ python基础操作练习
 
 ### 1.2 小型项目
 
+|Project|Introduction|
+| :--: |:--: |
+|[001-Alien-Invasion-Game](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python-Learning/001-Alien-Invasion-Game)|利用Pygame开发一款有关于外星人入侵的2D射击类游戏|
+
 ## 2. C++
