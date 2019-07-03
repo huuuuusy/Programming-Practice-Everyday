@@ -66,3 +66,9 @@ class Ship():
         # self.image是将要绘制的图片,即飞船
         # self.rect是具体位置，即屏幕下方居中
         self.screen.blit(self.image, self.rect)
+
+    def center_ship(self):
+        """
+        让飞船在屏幕上居中
+        """
+        self.center = self.screen_rect.centerx
