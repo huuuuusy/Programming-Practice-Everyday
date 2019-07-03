@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/hu/anaconda3/bin/python",
+    "python.linting.pylintArgs": [ "----extension-pkg-whitelist=1xml" ],
+}
