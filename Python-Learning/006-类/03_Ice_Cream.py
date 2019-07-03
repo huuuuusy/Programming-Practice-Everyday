@@ -2,11 +2,14 @@
 @Author: huuuuusy
 @GitHub: https://github.com/huuuuusy
 
-任务：在02_Restaurant_V2基础上
-1. 编写一个名为IceCreamStand的类，让它继承Restaurant类
-2. 添加一个名为flavors的属性，用于存储一个由各种口味的冰淇淋组成的列表
-3. 编写一个显示这些冰淇淋的方法
-4. 创建一个IceCreamStand实例，并调用这个方法
+系统： Ubuntu 18.04
+IDE:  VS Code 1.35.1
+工具： python == 3.7.3
+任务： 在02_Restaurant_V2基础上
+        1. 编写一个名为IceCreamStand的类，让它继承Restaurant类
+        2. 添加一个名为flavors的属性，用于存储一个由各种口味的冰淇淋组成的列表
+        3. 编写一个显示这些冰淇淋的方法
+        4. 创建一个IceCreamStand实例，并调用这个方法
 """
 
 class Restaurant():

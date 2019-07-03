@@ -2,10 +2,13 @@
 @Author: huuuuusy
 @GitHub: https://github.com/huuuuusy
 
-alien_invasion.py负责执行关于游戏的主要功能
-运行本文件即可进行游戏
-
-注意：在pygame中原点位于左上角，向右下方移动时，坐标值将增大
+系统： Ubuntu 18.04
+IDE:  VS Code 1.35.1
+工具： python == 3.7.3
+      pygame == 1.9.6
+介绍： alien_invasion.py负责执行关于游戏的主要功能
+      运行本文件即可进行游戏
+注意： 在pygame中原点位于左上角，向右下方移动时，坐标值将增大
 """
 
 import sys

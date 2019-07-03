@@ -2,9 +2,12 @@
 @Author: huuuuusy
 @GitHub: https://github.com/huuuuusy
 
-任务：在01_User_List基础上加一条if语句，检查用户名列表是否为空
-1. 如果为空，就打印消息We need to find some users!
-2. 删除列表中的所有用户名，核实将打印正确的消息
+系统： Ubuntu 18.04
+IDE:  VS Code 1.35.1
+工具： python == 3.7.3
+任务： 在01_User_List基础上加一条if语句，检查用户名列表是否为空
+        1. 如果为空，就打印消息We need to find some users!
+        2. 删除列表中的所有用户名，核实将打印正确的消息
 """
 
 def check_usernames(usernames):

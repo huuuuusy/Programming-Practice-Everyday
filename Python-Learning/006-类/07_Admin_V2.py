@@ -2,11 +2,14 @@
 @Author: huuuuusy
 @GitHub: https://github.com/huuuuusy
 
-任务：在06_Admin的基础上
-1. 编写一个名为Privileges的类，它只有一个属性privileges，其中存储了06_Admin的字符串列表
-2. 将方法show_privileges()移到这个类中
-3. 在Admin类中，将一个Privileges实例用作其属性
-4. 创建一个Admin实例，并使用方法show_privileges()来显示其权限
+系统： Ubuntu 18.04
+IDE:  VS Code 1.35.1
+工具： python == 3.7.3
+任务： 在06_Admin的基础上
+        1. 编写一个名为Privileges的类，它只有一个属性privileges，其中存储了06_Admin的字符串列表
+        2. 将方法show_privileges()移到这个类中
+        3. 在Admin类中，将一个Privileges实例用作其属性
+        4. 创建一个Admin实例，并使用方法show_privileges()来显示其权限
 """
 
 class User():

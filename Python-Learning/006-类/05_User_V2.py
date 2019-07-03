@@ -2,13 +2,16 @@
 @Author: huuuuusy
 @GitHub: https://github.com/huuuuusy
 
-任务：在04_User的基础上
-1. 添加一个名为login_attempts的属性
-   编写一个名为increment_login_attempts()的方法，它将属性login_attempts的值加1
-   再编写一个名为reset_login_attempts()的方法，它将属性login_ attempts的值重置为0
-2. 根据User类创建一个实例，再调用方法increment_login_attempts()多次
-   打印属性login_attempts的值，确认它被正确地递增
-   然后，调用方法reset_login_attempts()，并再次打印属性login_attempts的值，确认它被重置为0
+系统： Ubuntu 18.04
+IDE:  VS Code 1.35.1
+工具： python == 3.7.3
+任务： 在04_User的基础上
+        1. 添加一个名为login_attempts的属性
+        编写一个名为increment_login_attempts()的方法，它将属性login_attempts的值加1
+        再编写一个名为reset_login_attempts()的方法，它将属性login_ attempts的值重置为0
+        2. 根据User类创建一个实例，再调用方法increment_login_attempts()多次
+        打印属性login_attempts的值，确认它被正确地递增
+        然后，调用方法reset_login_attempts()，并再次打印属性login_attempts的值，确认它被重置为0
 """
 
 class User():

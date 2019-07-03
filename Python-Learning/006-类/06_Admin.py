@@ -2,11 +2,14 @@
 @Author: huuuuusy
 @GitHub: https://github.com/huuuuusy
 
-任务：在05_User_V2的基础上
-1. 编写一个名为Admin的类，让它继承User 类
-2. 添加一个名为privileges的属性，用于存储一个由字符串（如"can add post"、"can delete post"、"can ban user"等）组成的列表
-3. 编写一个名为show_privileges()的方法，它显示管理员的权限
-4. 创建一个Admin实例，并调用这个方法
+系统： Ubuntu 18.04
+IDE:  VS Code 1.35.1
+工具： python == 3.7.3
+任务： 在05_User_V2的基础上
+        1. 编写一个名为Admin的类，让它继承User 类
+        2. 添加一个名为privileges的属性，用于存储一个由字符串（如"can add post"、"can delete post"、"can ban user"等）组成的列表
+        3. 编写一个名为show_privileges()的方法，它显示管理员的权限
+        4. 创建一个Admin实例，并调用这个方法
 """
 
 class User():

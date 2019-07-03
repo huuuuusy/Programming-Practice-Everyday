@@ -2,9 +2,11 @@
 @Author: huuuuusy
 @GitHub: https://github.com/huuuuusy
 
-任务：
-编写一个程序，调查用户梦想的度假胜地,使用字典存储数据
-使用类似于“If you could visit one place in the world, where would you go?”的提示，并编写一个打印调查结果的代码块
+系统： Ubuntu 18.04
+IDE:  VS Code 1.35.1
+工具： python == 3.7.3
+任务： 编写一个程序，调查用户梦想的度假胜地,使用字典存储数据
+      使用类似于“If you could visit one place in the world, where would you go?”的提示，并编写一个打印调查结果的代码块
 """
 
 name_prompt = "\nWhat's your name? "

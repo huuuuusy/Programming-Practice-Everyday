@@ -2,9 +2,11 @@
 @Author: huuuuusy
 @GitHub: https://github.com/huuuuusy
 
-任务：
-编写一个函数，将一辆汽车的信息存储在一个字典中
-这个函数总是接受制造商和型号，还接受任意数量的关键字实参
+系统： Ubuntu 18.04
+IDE:  VS Code 1.35.1
+工具： python == 3.7.3
+任务： 编写一个函数，将一辆汽车的信息存储在一个字典中
+      这个函数总是接受制造商和型号，还接受任意数量的关键字实参
 """
 
 def make_car(manufacturer, model, **options):

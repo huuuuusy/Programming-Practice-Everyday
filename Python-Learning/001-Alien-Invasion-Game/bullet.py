@@ -2,7 +2,11 @@
 @Author: huuuuusy
 @GitHub: https://github.com/huuuuusy
 
-bullet.py负责对子弹进行相关操作
+系统： Ubuntu 18.04
+IDE:  VS Code 1.35.1
+工具： python == 3.7.3
+      pygame == 1.9.6
+介绍： bullet.py负责对子弹进行相关操作
 """
 
 import pygame

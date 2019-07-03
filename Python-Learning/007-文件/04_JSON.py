@@ -2,8 +2,10 @@
 @Author: huuuuusy
 @GitHub: https://github.com/huuuuusy
 
-任务：
-利用json保存和读取用户生成的数据
+系统： Ubuntu 18.04
+IDE:  VS Code 1.35.1
+工具： python == 3.7.3
+任务： 利用json保存和读取用户生成的数据
 """
 
 import json

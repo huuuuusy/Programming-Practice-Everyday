@@ -2,11 +2,13 @@
 @Author: huuuuusy
 @GitHub: https://github.com/huuuuusy
 
-任务：
-1. 创建一个名为User的类，其中包含属性first_name和last_name，还有用户简介通常会存储的其他几个属性
-2. 在类User中定义一个名为describe_user()的方法，它打印用户信息摘要
-再定义一个名为greet_user()的方法，它向用户发出个性化的问候
-3. 创建多个表示不同用户的实例，并对每个实例都调用上述两个方法
+系统： Ubuntu 18.04
+IDE:  VS Code 1.35.1
+工具： python == 3.7.3
+任务： 1. 创建一个名为User的类，其中包含属性first_name和last_name，还有用户简介通常会存储的其他几个属性
+      2. 在类User中定义一个名为describe_user()的方法，它打印用户信息摘要
+         再定义一个名为greet_user()的方法，它向用户发出个性化的问候
+      3. 创建多个表示不同用户的实例，并对每个实例都调用上述两个方法
 """
 
 class User():
