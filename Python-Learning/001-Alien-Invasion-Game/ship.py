@@ -10,13 +10,15 @@ IDE:  VS Code 1.35.1
 """
 
 import pygame
+from pygame.sprite import Sprite
 
-class Ship():
+class Ship(Sprite):
 
     def __init__(self, ai_settings, screen):
         """
         初始化飞船并设置初始位置
         """
+        super(Ship, self).__init__()
         # screen指定绘制飞船的位置
         self.screen = screen
         # ai_settings指定有关游戏的设置
@@ -24,7 +26,7 @@ class Ship():
 
         # 加载飞船图像并获取其外接矩形
         # 下载飞船图像，并将其作为一个surface存入self.image中
-        self.image = pygame.image.load('images/ship.png')
+        self.image = pygame.image.load('images/ship.bmp')
         # 获取surface的属性rect
         self.rect = self.image.get_rect()
         self.screen_rect = screen.get_rect()
