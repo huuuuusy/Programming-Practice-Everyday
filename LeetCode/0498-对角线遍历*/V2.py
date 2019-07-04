@@ -14,8 +14,8 @@ IDE:  VS Code 1.36
     需要讨论各种情况
     分析清楚遍历的规律后则程序很简单
 结果：
-    执行用时 : 148 ms, 在所有 Python 提交中击败了92.03%的用户
-    内存消耗 : 15.2 MB, 在所有 Python 提交中击败了92.59%的用户
+    执行用时 : 148 ms, 在所有 Python3 提交中击败了92.03%的用户
+    内存消耗 : 15.2 MB, 在所有 Python3 提交中击败了92.59%的用户
 """
 class Solution:
     def findDiagonalOrder(self, matrix):

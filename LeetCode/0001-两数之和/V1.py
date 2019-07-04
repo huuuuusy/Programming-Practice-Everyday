@@ -16,8 +16,8 @@ IDE:  VS Code 1.35.1
     eg. nums = [3,3], target = 6, answer = [0,1]
         为了不返回[0,0],需要在remain_nums中计算second_index
 结果：
-    执行用时 : 852 ms, 在所有 Python 提交中击败了49.32%的用户
-    内存消耗 : 12.7 MB, 在所有 Python 提交中击败了25.75%的用户
+    执行用时 : 852 ms, 在所有 Python3 提交中击败了49.32%的用户
+    内存消耗 : 12.7 MB, 在所有 Python3 提交中击败了25.75%的用户
 """
 
 class Solution(object):
