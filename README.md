@@ -34,12 +34,20 @@ python基础操作练习
 |[0066-加一](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0066-%E5%8A%A0%E4%B8%80)|[0067-二进制求和](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0067-%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C)|
 |[0088-合并两个有序数组](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0088-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84)|
 |[0118-杨辉三角](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0118-%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92)|[0119-杨辉三角2](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0119-%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%922)|
+|[0121-买股票的最佳时机*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0121-%E4%B9%B0%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA*)|[0122-买卖股票的最佳时机 II*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0122-%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20II*)|
+|[0136-只出现一次的数字](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0136-%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97)|
+|[0151-翻转字符串里的单词](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0151-%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D)|
 |[0167-两数之和 II - 输入有序数组](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0167-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84)|
+|[0186-翻转字符串里的单词 II](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0186-%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D%20II)|[0189-旋转数组](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0189-%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84)|
 |[0209-长度最小的子数组](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0209-%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84)|
+|[0217-存在重复元素](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0217-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0)|
+|[0283-移动零](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0283-%E7%A7%BB%E5%8A%A8%E9%9B%B6)|
 |[0344-反转字符串](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0344-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2)|
+|[0349-两个数组的交集](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0349-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86)|
 |[0485-最大连续1的个数](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0485-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0)|
 |[0487-最大连续1的个数 II*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0487-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20II*)|
 |[0498-对角线遍历*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0498-%E5%AF%B9%E8%A7%92%E7%BA%BF%E9%81%8D%E5%8E%86*)|
+|[0557-反转字符串中的单词 III*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0557-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III*)|
 |[0561-数组拆分1](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0561-%E6%95%B0%E7%BB%84%E6%8B%86%E5%88%861)|
 |[0709-转换成小写字母](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0709-%E8%BD%AC%E6%8D%A2%E6%88%90%E5%B0%8F%E5%86%99%E5%AD%97%E6%AF%8D)|
 |[0724-寻找数组的中心索引*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0724-%E5%AF%BB%E6%89%BE%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E5%BF%83%E7%B4%A2%E5%BC%95*)|
