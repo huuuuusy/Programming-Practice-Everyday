@@ -17,7 +17,7 @@ python基础操作练习
 
 |项目|介绍|日期|
 | :--: |:--: |:--:|
-|[001-Alien-Invasion-Game](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python-Learning/001-Alien-Invasion-Game)|利用Pygame开发一款有关于外星人入侵的2D射击类游戏![](data/alien.jpeg)| 190704:V1完成|
+|[001-Alien-Invasion-Game](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python-Learning/001-Alien-Invasion-Game)|利用Pygame开发一款有关于外星人入侵的2D射击类游戏|190704【V1完成】|
 
 ### 1.2 C++
 
