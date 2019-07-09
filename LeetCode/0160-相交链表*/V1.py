@@ -13,8 +13,8 @@ IDE:  VS Code 1.36
 链接：
     https://leetcode-cn.com/problems/two-sum/solution/intersection-of-two-linked-lists-shuang-zhi-zhen-l/
 结果：
-    执行用时 : 44 ms, 在所有 Python3 提交中击败了94.72%的用户
-    内存消耗 : 18.7 MB, 在所有 Python3 提交中击败了7.25%的用户
+    执行用时 : 240 ms, 在所有 Python3 提交中击败了81.03%的用户
+    内存消耗 : 41.8 MB, 在所有 Python3 提交中击败了30.4%的用户
 """
 
 # Definition for singly-linked list.
@@ -33,7 +33,7 @@ class Solution(object):
         ha = headA
         hb = headB
         # 如果两个节点不同
-        if ha != hb:
+        while ha != hb:
             # ha将继续向后进行，直到链表A被遍历完，然后ha开始遍历链表B
             # hb同理
             # 这一操作类似于进行拼接
@@ -41,4 +41,5 @@ class Solution(object):
             hb = hb.next if hb else headA
         # 最终返回ha(此时ha=hb，是相交点)
         return ha
+        
         
