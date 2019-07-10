@@ -44,7 +44,7 @@ python基础操作练习
 |[0160-相交链表*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0160-%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8*)|
 |[0167-两数之和 II - 输入有序数组](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0167-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84)|
 |[0186-翻转字符串里的单词 II](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0186-%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D%20II)|[0189-旋转数组](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0189-%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84)|
-|[0202-快乐数*]|
+|[0202-快乐数*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0202-%E5%BF%AB%E4%B9%90%E6%95%B0*)|[0205- 同构字符串]|
 |[0209-长度最小的子数组](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0209-%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84)|
 |[0217-存在重复元素](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0217-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0)|
 |[0242-有效的字母异位词](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0242-%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D)|
@@ -63,3 +63,4 @@ python基础操作练习
 |[1004-最大连续1的个数 III*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/1004-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20III*)|
 
 **星号: 本题参考了其他人的解法**
+
