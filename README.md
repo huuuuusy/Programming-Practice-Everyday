@@ -40,6 +40,7 @@ python基础操作练习
 |[0121-买股票的最佳时机*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0121-%E4%B9%B0%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA*)|[0122-买卖股票的最佳时机 II*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0122-%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20II*)|[0125-验证回文串](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0125-%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2)|
 |[0136-只出现一次的数字](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0136-%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97)|
 |[0141-环形链表](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0141-%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8)|[0142-环形链表II](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0142-%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II)|
+|[0149-直线上最多的点数]|
 |[0151-翻转字符串里的单词](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0151-%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D)|
 |[0160-相交链表*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0160-%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8*)|
 |[0167-两数之和 II - 输入有序数组](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0167-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84)|
