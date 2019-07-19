@@ -50,7 +50,7 @@ python基础操作练习
 |[0217-存在重复元素](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0217-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0)|[0219-存在重复元素 II](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0219-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20II)|[0220-存在重复元素 III](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0220-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20III)|
 |[0242-有效的字母异位词](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0242-%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D)|
 |[0283-移动零](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0283-%E7%A7%BB%E5%8A%A8%E9%9B%B6)|
-|[0328-奇偶链表*]|
+|[0328-奇偶链表*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0328-%E5%A5%87%E5%81%B6%E9%93%BE%E8%A1%A8*)|
 |[0344-反转字符串](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0344-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2)|
 |[0349-两个数组的交集](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0349-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86)|[0350-两个数组的交集 II](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0350-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%20II)|
 |[0387-字符串中的第一个唯一字符](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0387-%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6)|
