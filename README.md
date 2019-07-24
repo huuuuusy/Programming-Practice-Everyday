@@ -75,5 +75,6 @@ python基础操作练习
 |[0747-至少是其他数字两倍的最大数](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0747-%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0#0747-%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0)|
 |[0876-链表的中间结点](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0876-%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9)|
 |[1004-最大连续1的个数 III*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/1004-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20III*)|[1064-不动点](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/1064-%E4%B8%8D%E5%8A%A8%E7%82%B9)|
+|[1119-删去字符串中的元音]|
 
 **星号: 本题参考其他人的解法**
