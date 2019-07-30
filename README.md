@@ -68,7 +68,7 @@ python基础操作练习
 |[0487-最大连续1的个数 II*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0487-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20II*)|
 |[0498-对角线遍历*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0498-%E5%AF%B9%E8%A7%92%E7%BA%BF%E9%81%8D%E5%8E%86*)|
 |[0520-检测大写字母](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0520-%E6%A3%80%E6%B5%8B%E5%A4%A7%E5%86%99%E5%AD%97%E6%AF%8D)|
-|[0521-最长特殊序列 Ⅰ]|
+|[0521-最长特殊序列 Ⅰ](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0521-%E6%9C%80%E9%95%BF%E7%89%B9%E6%AE%8A%E5%BA%8F%E5%88%97%20%E2%85%A0)|
 |[0557-反转字符串中的单词 III*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0557-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III*)|
 |[0561-数组拆分1](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0561-%E6%95%B0%E7%BB%84%E6%8B%86%E5%88%861)|
 |[0599-两个列表的最小索引总和](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0599-%E4%B8%A4%E4%B8%AA%E5%88%97%E8%A1%A8%E7%9A%84%E6%9C%80%E5%B0%8F%E7%B4%A2%E5%BC%95%E6%80%BB%E5%92%8C)|
