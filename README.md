@@ -54,7 +54,7 @@ python基础操作练习
 |[0234-回文链表](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0234-%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8)|
 |[0237-删除链表中的节点](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0237-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9)|
 |[0242-有效的字母异位词](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0242-%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D)|
-|[0249-移位字符串分组]|
+|[0249-移位字符串分组](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0249-移位字符串分组)|
 |[0283-移动零](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0283-%E7%A7%BB%E5%8A%A8%E9%9B%B6)|
 |[0293-翻转游戏](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0293-%E7%BF%BB%E8%BD%AC%E6%B8%B8%E6%88%8F)|
 |[0328-奇偶链表*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0328-%E5%A5%87%E5%81%B6%E9%93%BE%E8%A1%A8*)|
