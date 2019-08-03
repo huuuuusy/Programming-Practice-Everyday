@@ -44,7 +44,7 @@ class Solution:
             # 如果flag是False,表示节点代表整个子树
             else:
                 # 将节点的左右子树存入结果中，其中flag设置为false，表示存入的是树而非值
-                # 前序遍历的顺序是左－右－根，所以用栈时按照根－右－左的顺序存储
+                # 后序遍历的顺序是左－右－根，所以用栈时按照根－右－左的顺序存储
                 # 将节点存回st中
                 st.append((cur,True))
                 if cur.right:
