@@ -82,6 +82,7 @@ python基础操作练习
 |[0771-宝石与石头](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0771-%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%9F%B3%E5%A4%B4)|
 |[0814-唯一摩尔斯密码词](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0814-%E5%94%AF%E4%B8%80%E6%91%A9%E5%B0%94%E6%96%AF%E5%AF%86%E7%A0%81%E8%AF%8D)|
 |[0876-链表的中间结点](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0876-%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9)|
+|[0977-有序数组的平方]|
 |[1004-最大连续1的个数 III*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/1004-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20III*)|[1064-不动点](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/1064-%E4%B8%8D%E5%8A%A8%E7%82%B9)|
 |[1119-删去字符串中的元音](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/1119-%E5%88%A0%E5%8E%BB%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3)|
 
