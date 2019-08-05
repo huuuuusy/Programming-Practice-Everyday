@@ -54,7 +54,7 @@ python基础操作练习
 |[0217-存在重复元素](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0217-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0)|[0219-存在重复元素 II](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0219-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20II)|[0220-存在重复元素 III](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0220-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20III)|
 |[0234-回文链表](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0234-%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8)|
 |[0237-删除链表中的节点](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0237-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9)|
-|[0242-有效的字母异位词](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0242-%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D)|[0243-最短单词距离]|
+|[0242-有效的字母异位词](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0242-%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D)|[0243-最短单词距离](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0243-%E6%9C%80%E7%9F%AD%E5%8D%95%E8%AF%8D%E8%B7%9D%E7%A6%BB)|
 |[0249-移位字符串分组](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0249-移位字符串分组)|
 |[0283-移动零](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0283-%E7%A7%BB%E5%8A%A8%E9%9B%B6)|
 |[0293-翻转游戏](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0293-%E7%BF%BB%E8%BD%AC%E6%B8%B8%E6%88%8F)|
@@ -82,8 +82,9 @@ python基础操作练习
 |[0771-宝石与石头](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0771-%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%9F%B3%E5%A4%B4)|
 |[0814-唯一摩尔斯密码词](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0814-%E5%94%AF%E4%B8%80%E6%91%A9%E5%B0%94%E6%96%AF%E5%AF%86%E7%A0%81%E8%AF%8D)|
 |[0876-链表的中间结点](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0876-%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9)|
-|[0977-有序数组的平方]|
+|[0977-有序数组的平方](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0977-%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9)|
 |[1004-最大连续1的个数 III*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/1004-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20III*)|[1064-不动点](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/1064-%E4%B8%8D%E5%8A%A8%E7%82%B9)|
 |[1119-删去字符串中的元音](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/1119-%E5%88%A0%E5%8E%BB%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3)|
 
 **星号: 本题参考其他人的解法**
+
