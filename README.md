@@ -37,6 +37,7 @@ python基础操作练习
 |[0053-最大子序和*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0053-%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C*)|[0054-螺旋矩阵](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0054-%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5)|
 |[0061-旋转链表](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0061-%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8)|
 |[0066-加一](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0066-%E5%8A%A0%E4%B8%80)|[0067-二进制求和](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0067-%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C)|
+|[0075-颜色分类]|
 |[0080-删除排序数组中的重复项 II]|
 |[0083-删除排序链表中的重复元素](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0083-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0)|
 |[0088-合并两个有序数组](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0088-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84)|
