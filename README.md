@@ -90,7 +90,7 @@ python基础操作练习
 |[0977-有序数组的平方](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0977-%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9)<br>【Python3】|
 |[1004-最大连续1的个数 III*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/1004-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20III*)<br>【Python3】|
 |[1064-不动点](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/1064-%E4%B8%8D%E5%8A%A8%E7%82%B9)<br>【Python3】|
-|[1085-最小元素各数位之和]()<br>【Python3】|
+|[1085-最小元素各数位之和](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/1085-%E6%9C%80%E5%B0%8F%E5%85%83%E7%B4%A0%E5%90%84%E6%95%B0%E4%BD%8D%E4%B9%8B%E5%92%8C)<br>【Python3】|
 |[1119-删去字符串中的元音](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/1119-%E5%88%A0%E5%8E%BB%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3)<br>【Python3】|
 |[1133-最大唯一数](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/1133-%E6%9C%80%E5%A4%A7%E5%94%AF%E4%B8%80%E6%95%B0)<br>【Python3】|
 
