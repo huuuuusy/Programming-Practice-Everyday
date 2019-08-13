@@ -87,7 +87,7 @@ python基础操作练习
 |[0771-宝石与石头](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0771-%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%9F%B3%E5%A4%B4)<br>【Python3】|
 |[0814-唯一摩尔斯密码词](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0814-%E5%94%AF%E4%B8%80%E6%91%A9%E5%B0%94%E6%96%AF%E5%AF%86%E7%A0%81%E8%AF%8D)<br>【Python3】|
 |[0876-链表的中间结点](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0876-%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9)<br>【Python3】|
-|[0893-特殊等价字符串组*]()<br>【Python3】|
+|[0893-特殊等价字符串组*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0893-%E7%89%B9%E6%AE%8A%E7%AD%89%E4%BB%B7%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%BB%84*)<br>【Python3】|
 |[0905-按奇偶排序数组](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0905-%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84)<br>【Python3】|
 |[0977-有序数组的平方](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0977-%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9)<br>【Python3】|
 |[1004-最大连续1的个数 III*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/1004-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20III*)<br>【Python3】|
