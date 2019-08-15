@@ -73,7 +73,7 @@ python基础操作练习
 |[0328-奇偶链表*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0328-%E5%A5%87%E5%81%B6%E9%93%BE%E8%A1%A8*)<br>【Python3】|
 |[0344-反转字符串](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0344-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2)<br>【Python3】|[0345-反转字符串中的元音字母](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0345-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3%E5%AD%97%E6%AF%8D)<br>【Python3】|
 |[0349-两个数组的交集](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0349-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86)<br>【Python3】|[0350-两个数组的交集 II](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0350-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%20II)<br>【Python3】|
-|[0367-有效的完全平方数]()<br>【Python3】|
+|[0367-有效的完全平方数](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0367-%E6%9C%89%E6%95%88%E7%9A%84%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0)<br>【Python3】|
 |[0387-字符串中的第一个唯一字符](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0387-%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6)<br>【Python3】|
 |[0415-根据字符出现频率排序*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0415-%E6%A0%B9%E6%8D%AE%E5%AD%97%E7%AC%A6%E5%87%BA%E7%8E%B0%E9%A2%91%E7%8E%87%E6%8E%92%E5%BA%8F*)<br>【Python3】|
 |[0430- 扁平化多级双向链表](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0430-%20%E6%89%81%E5%B9%B3%E5%8C%96%E5%A4%9A%E7%BA%A7%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8*)<br>【Python3】|
