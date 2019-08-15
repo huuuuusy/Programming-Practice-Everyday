@@ -93,6 +93,7 @@ python基础操作练习
 |[0747-至少是其他数字两倍的最大数](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0747-%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0#0747-%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0)<br>【Python3】|
 |[0771-宝石与石头](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0771-%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%9F%B3%E5%A4%B4)<br>【Python3】|
 |[0814-唯一摩尔斯密码词](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0814-%E5%94%AF%E4%B8%80%E6%91%A9%E5%B0%94%E6%96%AF%E5%AF%86%E7%A0%81%E8%AF%8D)<br>【Python3】|
+|[0852-山脉数组的峰顶索引]()<br>【Python3】|
 |[0876-链表的中间结点](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0876-%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9)<br>【Python3】|
 |[0893-特殊等价字符串组*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0893-%E7%89%B9%E6%AE%8A%E7%AD%89%E4%BB%B7%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%BB%84*)<br>【Python3】|
 |[0905-按奇偶排序数组](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0905-%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84)<br>【Python3】|
