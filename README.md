@@ -68,17 +68,18 @@ python基础操作练习
 |[0249-移位字符串分组](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0249-移位字符串分组)<br>【Python3】|
 |[0268-缺失数字](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0268-%E7%BC%BA%E5%A4%B1%E6%95%B0%E5%AD%97)<br>【Python3】|
 |[0283-移动零](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0283-%E7%A7%BB%E5%8A%A8%E9%9B%B6)<br>【Python3】|
+|[0287-第一个错误的版本]()<br>【Python3】|
 |[0293-翻转游戏](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0293-%E7%BF%BB%E8%BD%AC%E6%B8%B8%E6%88%8F)<br>【Python3】|
 |[0300-最长上升子序列*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0300-%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97*)<br>【Python3】|
 |[0328-奇偶链表*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0328-%E5%A5%87%E5%81%B6%E9%93%BE%E8%A1%A8*)<br>【Python3】|
 |[0344-反转字符串](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0344-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2)<br>【Python3】|[0345-反转字符串中的元音字母](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0345-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3%E5%AD%97%E6%AF%8D)<br>【Python3】|
 |[0349-两个数组的交集](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0349-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86)<br>【Python3】|[0350-两个数组的交集 II](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0350-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%20II)<br>【Python3】|
 |[0367-有效的完全平方数](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0367-%E6%9C%89%E6%95%88%E7%9A%84%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0)<br>【Python3】|
-|[0374-猜数字大小]()<br>【Python3】｜
+|[0374-猜数字大小](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0374-%E7%8C%9C%E6%95%B0%E5%AD%97%E5%A4%A7%E5%B0%8F)<br>【Python3】｜
 |[0387-字符串中的第一个唯一字符](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0387-%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6)<br>【Python3】|
 |[0415-根据字符出现频率排序*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0415-%E6%A0%B9%E6%8D%AE%E5%AD%97%E7%AC%A6%E5%87%BA%E7%8E%B0%E9%A2%91%E7%8E%87%E6%8E%92%E5%BA%8F*)<br>【Python3】|
 |[0430- 扁平化多级双向链表](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0430-%20%E6%89%81%E5%B9%B3%E5%8C%96%E5%A4%9A%E7%BA%A7%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8*)<br>【Python3】|
-|[0441-排列硬币]()<br>【Python3】|
+|[0441-排列硬币](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0441-%E6%8E%92%E5%88%97%E7%A1%AC%E5%B8%81)<br>【Python3】|
 |[0447-回旋镖的数量*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0447-%E5%9B%9E%E6%97%8B%E9%95%96%E7%9A%84%E6%95%B0%E9%87%8F*)<br>【Python3】|[0448-找到所有数组中消失的数字](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0448-%E6%89%BE%E5%88%B0%E6%89%80%E6%9C%89%E6%95%B0%E7%BB%84%E4%B8%AD%E6%B6%88%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97)<br>【Python3】|
 |[0454-四数相加II*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0454-%E5%9B%9B%E6%95%B0%E7%9B%B8%E5%8A%A0II*)<br>【Python3】|
 |[0485-最大连续1的个数](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0485-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0)<br>【Python3】|
