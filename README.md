@@ -90,10 +90,11 @@ python基础操作练习
 |[0704-二分查找](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0704-%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE)<br>【Python3】|[0705-设计哈希集合*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0705-%E8%AE%BE%E8%AE%A1%E5%93%88%E5%B8%8C%E9%9B%86%E5%90%88*)<br>【Python3】|
 |[0706-设计哈希映射*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0706-%E8%AE%BE%E8%AE%A1%E5%93%88%E5%B8%8C%E6%98%A0%E5%B0%84*)<br>【Python3】|[0707-设计链表*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0707-%E8%AE%BE%E8%AE%A1%E9%93%BE%E8%A1%A8*)<br>【Python3】|[0709-转换成小写字母](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0709-%E8%BD%AC%E6%8D%A2%E6%88%90%E5%B0%8F%E5%86%99%E5%AD%97%E6%AF%8D)<br>【Python3】|
 |[0724-寻找数组的中心索引*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0724-%E5%AF%BB%E6%89%BE%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E5%BF%83%E7%B4%A2%E5%BC%95*)<br>【Python3】|
+|[0744-寻找比目标字母大的最小字母]()<br>【Python3】|
 |[0747-至少是其他数字两倍的最大数](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0747-%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0#0747-%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0)<br>【Python3】|
 |[0771-宝石与石头](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0771-%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%9F%B3%E5%A4%B4)<br>【Python3】|
 |[0814-唯一摩尔斯密码词](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0814-%E5%94%AF%E4%B8%80%E6%91%A9%E5%B0%94%E6%96%AF%E5%AF%86%E7%A0%81%E8%AF%8D)<br>【Python3】|
-|[0852-山脉数组的峰顶索引]()<br>【Python3】|
+|[0852-山脉数组的峰顶索引](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0852-%E5%B1%B1%E8%84%89%E6%95%B0%E7%BB%84%E7%9A%84%E5%B3%B0%E9%A1%B6%E7%B4%A2%E5%BC%95)<br>【Python3】|
 |[0876-链表的中间结点](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0876-%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9)<br>【Python3】|
 |[0893-特殊等价字符串组*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0893-%E7%89%B9%E6%AE%8A%E7%AD%89%E4%BB%B7%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%BB%84*)<br>【Python3】|
 |[0905-按奇偶排序数组](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0905-%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84)<br>【Python3】|
