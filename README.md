@@ -23,6 +23,12 @@ python基础操作练习
 
 ## 2. LeetCode
 
+### 有用的题解
+
+|类别|题解|
+|:--: |:--: |
+|二分查找|[十分好用的二分查找法模板](https://leetcode-cn.com/problems/search-insert-position/solution/te-bie-hao-yong-de-er-fen-cha-fa-fa-mo-ban-python-/)|
+
 |项目|项目|项目|项目|项目|
 | :--: |:--: |:--: |:--: |:--: |
 |[0001-两数之和](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0001-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C)<br>【Python3/C++】|[0002-两数相加](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0002-%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0)<br>【Python3】|
@@ -36,7 +42,7 @@ python基础操作练习
 |[0048-旋转图像*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0048-%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F*)<br>【Python3】|[0049-字母异位词分组*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0049-%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84*)<br>【Python3】|
 |[0053-最大子序和*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0053-%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C*)<br>【Python3】|[0054-螺旋矩阵](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0054-%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5)<br>【Python3】|
 |[0061-旋转链表](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0061-%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8)<br>【Python3】|
-|[0066-加一](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0066-%E5%8A%A0%E4%B8%80)<br>【Python3】|[0067-二进制求和](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0067-%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C)<br>【Python3】|
+|[0066-加一](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0066-%E5%8A%A0%E4%B8%80)<br>【Python3】|[0067-二进制求和](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0067-%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C)<br>【Python3】|[0069-x 的平方根]()<br>【Python3】|
 |[0075-颜色分类](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0075-%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB)<br>【Python3】|
 |[0080-删除排序数组中的重复项 II](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0080-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9%20II)<br>【Python3】|
 |[0083-删除排序链表中的重复元素](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0083-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0)<br>【Python3】|
