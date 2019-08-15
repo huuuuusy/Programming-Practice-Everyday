@@ -69,6 +69,7 @@ python基础操作练习
 |[0268-缺失数字](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0268-%E7%BC%BA%E5%A4%B1%E6%95%B0%E5%AD%97)<br>【Python3】|
 |[0283-移动零](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0283-%E7%A7%BB%E5%8A%A8%E9%9B%B6)<br>【Python3】|
 |[0293-翻转游戏](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0293-%E7%BF%BB%E8%BD%AC%E6%B8%B8%E6%88%8F)<br>【Python3】|
+|[0300-最长上升子序列*]()<br>【Python3】|
 |[0328-奇偶链表*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0328-%E5%A5%87%E5%81%B6%E9%93%BE%E8%A1%A8*)<br>【Python3】|
 |[0344-反转字符串](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0344-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2)<br>【Python3】|[0345-反转字符串中的元音字母](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0345-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3%E5%AD%97%E6%AF%8D)<br>【Python3】|
 |[0349-两个数组的交集](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0349-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86)<br>【Python3】|[0350-两个数组的交集 II](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0350-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%20II)<br>【Python3】|
