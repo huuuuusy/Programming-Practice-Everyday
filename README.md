@@ -82,6 +82,7 @@ python基础操作练习
 |[0441-排列硬币](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0441-%E6%8E%92%E5%88%97%E7%A1%AC%E5%B8%81)<br>【Python3】|
 |[0447-回旋镖的数量*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0447-%E5%9B%9E%E6%97%8B%E9%95%96%E7%9A%84%E6%95%B0%E9%87%8F*)<br>【Python3】|[0448-找到所有数组中消失的数字](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0448-%E6%89%BE%E5%88%B0%E6%89%80%E6%9C%89%E6%95%B0%E7%BB%84%E4%B8%AD%E6%B6%88%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97)<br>【Python3】|
 |[0454-四数相加II*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0454-%E5%9B%9B%E6%95%B0%E7%9B%B8%E5%8A%A0II*)<br>【Python3】|
+|[0475-供暖器]()<br>【Python3】|
 |[0485-最大连续1的个数](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0485-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0)<br>【Python3】|
 |[0487-最大连续1的个数 II*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0487-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20II*)<br>【Python3】|
 |[0498-对角线遍历*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0498-%E5%AF%B9%E8%A7%92%E7%BA%BF%E9%81%8D%E5%8E%86*)<br>【Python3】|
