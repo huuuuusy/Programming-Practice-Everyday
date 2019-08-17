@@ -69,7 +69,7 @@ python基础操作练习
 |[0268-缺失数字](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0268-%E7%BC%BA%E5%A4%B1%E6%95%B0%E5%AD%97)<br>【Python3】|
 |[0278-第一个错误的版本](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0287-%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC)<br>【Python3】|
 |[0283-移动零](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0283-%E7%A7%BB%E5%8A%A8%E9%9B%B6)<br>【Python3】|
-|[0287- 寻找重复数]()<br>【Python3】|
+|[0287- 寻找重复数](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0287-%20%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E6%95%B0)<br>【Python3】|
 |[0293-翻转游戏](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0293-%E7%BF%BB%E8%BD%AC%E6%B8%B8%E6%88%8F)<br>【Python3】|
 |[0300-最长上升子序列*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0300-%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97*)<br>【Python3】|
 |[0328-奇偶链表*](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/0328-%E5%A5%87%E5%81%B6%E9%93%BE%E8%A1%A8*)<br>【Python3】|
