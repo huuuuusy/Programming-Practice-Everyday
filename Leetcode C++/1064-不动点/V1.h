@@ -16,8 +16,6 @@ IDE:  VS Code 1.37
 
 #include <vector>
 using std::vector;
-#include <unordered_map>
-using std::unordered_map;
 
 class Solution {
 public:
