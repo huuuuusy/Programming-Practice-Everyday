@@ -111,6 +111,6 @@ python基础操作练习
 |1085-最小元素各数位之和<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1085-%E6%9C%80%E5%B0%8F%E5%85%83%E7%B4%A0%E5%90%84%E6%95%B0%E4%BD%8D%E4%B9%8B%E5%92%8C)|
 |1119-删去字符串中的元音<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1119-%E5%88%A0%E5%8E%BB%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3)|
 |1133-最大唯一数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1133-%E6%9C%80%E5%A4%A7%E5%94%AF%E4%B8%80%E6%95%B0)|
+|1150-检查一个数是否在数组中占绝大多数<br>[【Python3】]|
 
 **星号: 本题参考其他人的解法**
-
