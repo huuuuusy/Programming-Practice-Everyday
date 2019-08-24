@@ -110,6 +110,7 @@ python基础操作练习
 |0942-增减字符串匹配<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0942-%E5%A2%9E%E5%87%8F%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D)|
 |0977-有序数组的平方<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0977-%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9)|
 |1004-最大连续1的个数 III*<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1004-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20III*)|
+|1025-除数博弈*<br>[【Python3】]|
 |1051-高度检查器<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1051-%E9%AB%98%E5%BA%A6%E6%A3%80%E6%9F%A5%E5%99%A8)|
 |1064-不动点<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1064-%E4%B8%8D%E5%8A%A8%E7%82%B9)<br>[【C++】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Leetcode%20C%2B%2B/1064-%E4%B8%8D%E5%8A%A8%E7%82%B9)|
 |1085-最小元素各数位之和<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1085-%E6%9C%80%E5%B0%8F%E5%85%83%E7%B4%A0%E5%90%84%E6%95%B0%E4%BD%8D%E4%B9%8B%E5%92%8C)|
