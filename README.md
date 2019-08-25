@@ -21,13 +21,13 @@ python基础操作练习
 
 ### 1.2 C++
 
-## 2. LeetCode
-
-### 精选题解
+## 2. 算法精选题解
 
 |类别|题解|
 |:--: |:--: |
-|二分查找|[十分好用的二分查找法模板](https://leetcode-cn.com/problems/search-insert-position/solution/te-bie-hao-yong-de-er-fen-cha-fa-fa-mo-ban-python-/)|
+|基础算法|[常用代码模板1——基础算法](https://www.acwing.com/blog/content/277/)<br>[快速排序](https://www.acwing.com/solution/acwing/content/2096/)<br>[二分查找](https://leetcode-cn.com/problems/search-insert-position/solution/te-bie-hao-yong-de-er-fen-cha-fa-fa-mo-ban-python-/)|
+
+## 3. [LeetCode](https://leetcode-cn.com/)
 
 |项目|项目|项目|项目|项目|
 | :--: |:--: |:--: |:--: |:--: |
@@ -119,3 +119,9 @@ python基础操作练习
 |1150-检查一个数是否在数组中占绝大多数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1150-%E6%A3%80%E6%9F%A5%E4%B8%80%E4%B8%AA%E6%95%B0%E6%98%AF%E5%90%A6%E5%9C%A8%E6%95%B0%E7%BB%84%E4%B8%AD%E5%8D%A0%E7%BB%9D%E5%A4%A7%E5%A4%9A%E6%95%B0)|
 
 **星号: 本题参考其他人的解法**
+
+## 4. [AcWing](https://www.acwing.com/)
+
+|项目|项目|项目|项目|项目|
+| :--: |:--: |:--: |:--: |:--: |
+
