@@ -124,4 +124,4 @@ python基础操作练习
 
 |项目|项目|项目|项目|项目|
 | :--: |:--: |:--: |:--: |:--: |
-
+|0785-快速排序<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/AcWing%20Python/0785-%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F)|
