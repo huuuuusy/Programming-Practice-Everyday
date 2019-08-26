@@ -25,7 +25,7 @@ python基础操作练习
 
 |类别|题解|
 |:--: |:--: |
-|基础算法|[常用代码模板1——基础算法](https://www.acwing.com/blog/content/277/)<br>[快速排序](https://www.acwing.com/solution/acwing/content/2096/)<br>[二分查找](https://leetcode-cn.com/problems/search-insert-position/solution/te-bie-hao-yong-de-er-fen-cha-fa-fa-mo-ban-python-/)<br>[动态规划](https://leetcode-cn.com/problems/fibonacci-number/solution/dong-tai-gui-hua-tao-lu-xiang-jie-by-labuladong/)|
+|基础算法|[常用代码模板1——基础算法](https://www.acwing.com/blog/content/277/)<br>[快速排序](https://www.acwing.com/solution/acwing/content/2096/)<br>[二分查找](https://leetcode-cn.com/problems/search-insert-position/solution/te-bie-hao-yong-de-er-fen-cha-fa-fa-mo-ban-python-/)<br>[动态规划](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/dong-tai-gui-hua-she-ji-fang-fa-zhi-pai-you-xi-jia/)|
 
 ## 3. [LeetCode](https://leetcode-cn.com/)
 
@@ -88,7 +88,7 @@ python基础操作练习
 |0485-最大连续1的个数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0485-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0)|
 |0487-最大连续1的个数 II*<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0487-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20II*)|
 |0498-对角线遍历*<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0498-%E5%AF%B9%E8%A7%92%E7%BA%BF%E9%81%8D%E5%8E%86*)|
-|0509-斐波那契数<br>[【Python3】]()|
+|0509-斐波那契数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0509-%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0)|
 |0520-检测大写字母<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0520-%E6%A3%80%E6%B5%8B%E5%A4%A7%E5%86%99%E5%AD%97%E6%AF%8D)|
 |0521-最长特殊序列 Ⅰ<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0521-%E6%9C%80%E9%95%BF%E7%89%B9%E6%AE%8A%E5%BA%8F%E5%88%97%20%E2%85%A0)|
 |0557-反转字符串中的单词 III*<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0557-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III*)|
