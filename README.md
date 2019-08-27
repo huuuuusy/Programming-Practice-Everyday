@@ -21,11 +21,19 @@ python基础操作练习
 
 ### 1.2 C++
 
-## 2. 算法精选题解
+## 2. 算法和数据结构
+
+### 2.1《算法新解》
+
+|章节|内容|
+|:--: |:--: |
+|树|二叉搜索树|
+
+### 2.2 算法精选题解
 
 |类别|题解|
 |:--: |:--: |
-|基础算法|[常用代码模板1——基础算法](https://www.acwing.com/blog/content/277/)<br>[快速排序](https://www.acwing.com/solution/acwing/content/2096/)<br>[二分查找](https://leetcode-cn.com/problems/search-insert-position/solution/te-bie-hao-yong-de-er-fen-cha-fa-fa-mo-ban-python-/)<br>[动态规划](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/dong-tai-gui-hua-she-ji-fang-fa-zhi-pai-you-xi-jia/)|
+|基础算法|[常用代码模板1——基础算法](https://www.acwing.com/blog/content/277/)<br>[快速排序](https://www.acwing.com/solution/acwing/content/2096/)<br>[二分查找](https://leetcode-cn.com/problems/search-insert-position/solution/te-bie-hao-yong-de-er-fen-cha-fa-fa-mo-ban-python-/)<br>[动态规划-1](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/dong-tai-gui-hua-she-ji-fang-fa-zhi-pai-you-xi-jia/)<br>[动态规划-2](https://blog.csdn.net/u013309870/article/details/75193592)|
 
 ## 3. [LeetCode](https://leetcode-cn.com/)
 
@@ -115,6 +123,7 @@ python基础操作练习
 |1051-高度检查器<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1051-%E9%AB%98%E5%BA%A6%E6%A3%80%E6%9F%A5%E5%99%A8)|
 |1064-不动点<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1064-%E4%B8%8D%E5%8A%A8%E7%82%B9)<br>[【C++】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20C%2B%2B/1064-%E4%B8%8D%E5%8A%A8%E7%82%B9)|
 |1085-最小元素各数位之和<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1085-%E6%9C%80%E5%B0%8F%E5%85%83%E7%B4%A0%E5%90%84%E6%95%B0%E4%BD%8D%E4%B9%8B%E5%92%8C)|
+|1086-前五科平均分<br>[【Python3】]()|
 |1119-删去字符串中的元音<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1119-%E5%88%A0%E5%8E%BB%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3)|
 |1133-最大唯一数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1133-%E6%9C%80%E5%A4%A7%E5%94%AF%E4%B8%80%E6%95%B0)|1134-阿姆斯特朗数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1134-%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E6%9C%97%E6%95%B0)|
 |1150-检查一个数是否在数组中占绝大多数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1150-%E6%A3%80%E6%9F%A5%E4%B8%80%E4%B8%AA%E6%95%B0%E6%98%AF%E5%90%A6%E5%9C%A8%E6%95%B0%E7%BB%84%E4%B8%AD%E5%8D%A0%E7%BB%9D%E5%A4%A7%E5%A4%9A%E6%95%B0)|
