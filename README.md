@@ -117,7 +117,7 @@ python基础操作练习
 |0876-链表的中间结点<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0876-%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9)|
 |0893-特殊等价字符串组*<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0893-%E7%89%B9%E6%AE%8A%E7%AD%89%E4%BB%B7%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%BB%84*)|
 |0905-按奇偶排序数组<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0905-%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84)|
-|0908-最小差值 I<br>[【Python3】]()|
+|0908-最小差值 I<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0908-%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC%20I)|
 |0922-按奇偶排序数组 II<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0922-%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%20II)|
 |0942-增减字符串匹配<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0942-%E5%A2%9E%E5%87%8F%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D)|
 |0977-有序数组的平方<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0977-%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9)|
