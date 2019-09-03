@@ -4,16 +4,12 @@
 
 ### 1.1 Python
 
-#### 1.1.1 基础知识学习
-
-python基础操作练习
+#### 1.1.1 《Python编程从入门到实践》
 
 |项目|项目|项目|项目|
 | :--: |:--: |:--: |:--: |
 |[Chap2-变量和简单的数据类型](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap2-%E5%8F%98%E9%87%8F%E5%92%8C%E7%AE%80%E5%8D%95%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)|[Chap3&4-列表操作](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap3%264-%E5%88%97%E8%A1%A8%E6%93%8D%E4%BD%9C)|[Chap5&7-循环](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap5%267-%E5%BE%AA%E7%8E%AF)|[Chap6-字典](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap6-%E5%AD%97%E5%85%B8)|
 |[Chap8-函数](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap8-%E5%87%BD%E6%95%B0)|[Chap9-类](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap9-%E7%B1%BB)|[Chap10-文件](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap10-%E6%96%87%E4%BB%B6)|
-
-#### 1.1.2 小型项目
 
 |项目|介绍|日期|
 | :--: |:--: |:--:|
@@ -121,7 +117,7 @@ python基础操作练习
 |0922-按奇偶排序数组 II<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0922-%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%20II)|
 |0942-增减字符串匹配<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0942-%E5%A2%9E%E5%87%8F%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D)|
 |0977-有序数组的平方<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0977-%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9)|
-|0999-车的可用捕获量<br>[【Python3】]()|
+|0999-车的可用捕获量<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0999-%E8%BD%A6%E7%9A%84%E5%8F%AF%E7%94%A8%E6%8D%95%E8%8E%B7%E9%87%8F)|
 |1004-最大连续1的个数 III*<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1004-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20III*)|
 |1025-除数博弈*<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1025-%E9%99%A4%E6%95%B0%E5%8D%9A%E5%BC%88*)|
 |1051-高度检查器<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1051-%E9%AB%98%E5%BA%A6%E6%A3%80%E6%9F%A5%E5%99%A8)|
