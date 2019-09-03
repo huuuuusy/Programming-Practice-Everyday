@@ -106,7 +106,7 @@
 |0728-自除数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0728-%E8%87%AA%E9%99%A4%E6%95%B0)|
 |0744-寻找比目标字母大的最小字母<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0744-%E5%AF%BB%E6%89%BE%E6%AF%94%E7%9B%AE%E6%A0%87%E5%AD%97%E6%AF%8D%E5%A4%A7%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%97%E6%AF%8D)|
 |0747-至少是其他数字两倍的最大数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0747-%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0#0747-%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0)|
-|0760-找出变位映射<br>[【Python3】]()|
+|0760-找出变位映射<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0760-%E6%89%BE%E5%87%BA%E5%8F%98%E4%BD%8D%E6%98%A0%E5%B0%84)|
 |0771-宝石与石头<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0771-%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%9F%B3%E5%A4%B4)|
 |0814-唯一摩尔斯密码词<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Le【Python3】etCode%20Python/0814-%E5%94%AF%E4%B8%80%E6%91%A9%E5%B0%94%E6%96%AF%E5%AF%86%E7%A0%81%E8%AF%8D)|
 |0832-翻转图像<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0832-%E7%BF%BB%E8%BD%AC%E5%9B%BE%E5%83%8F)|
