@@ -90,6 +90,7 @@
 |0441-排列硬币<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0441-%E6%8E%92%E5%88%97%E7%A1%AC%E5%B8%81)|
 |0447-回旋镖的数量*<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0447-%E5%9B%9E%E6%97%8B%E9%95%96%E7%9A%84%E6%95%B0%E9%87%8F*)|0448-找到所有数组中消失的数字<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0448-%E6%89%BE%E5%88%B0%E6%89%80%E6%9C%89%E6%95%B0%E7%BB%84%E4%B8%AD%E6%B6%88%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97)|
 |0454-四数相加II*<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0454-%E5%9B%9B%E6%95%B0%E7%9B%B8%E5%8A%A0II*)|
+|0461-汉明距离<br>[【Python3】]()|
 |0475-供暖器<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0475-%E4%BE%9B%E6%9A%96%E5%99%A8)|
 |0485-最大连续1的个数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0485-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0)|
 |0487-最大连续1的个数 II*<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0487-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20II*)|
@@ -127,7 +128,7 @@
 |1064-不动点<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1064-%E4%B8%8D%E5%8A%A8%E7%82%B9)<br>[【C++】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20C%2B%2B/1064-%E4%B8%8D%E5%8A%A8%E7%82%B9)|
 |1085-最小元素各数位之和<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1085-%E6%9C%80%E5%B0%8F%E5%85%83%E7%B4%A0%E5%90%84%E6%95%B0%E4%BD%8D%E4%B9%8B%E5%92%8C)|
 |1086-前五科平均分<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1086-%E5%89%8D%E4%BA%94%E7%A7%91%E5%B9%B3%E5%9D%87%E5%88%86)|
-|1108-IP 地址无效化<br>[【Python3】]()|
+|1108-IP 地址无效化<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1108-IP%20%E5%9C%B0%E5%9D%80%E6%97%A0%E6%95%88%E5%8C%96)|
 |1119-删去字符串中的元音<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1119-%E5%88%A0%E5%8E%BB%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3)|
 |1133-最大唯一数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1133-%E6%9C%80%E5%A4%A7%E5%94%AF%E4%B8%80%E6%95%B0)|1134-阿姆斯特朗数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1134-%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E6%9C%97%E6%95%B0)|
 |1150-检查一个数是否在数组中占绝大多数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1150-%E6%A3%80%E6%9F%A5%E4%B8%80%E4%B8%AA%E6%95%B0%E6%98%AF%E5%90%A6%E5%9C%A8%E6%95%B0%E7%BB%84%E4%B8%AD%E5%8D%A0%E7%BB%9D%E5%A4%A7%E5%A4%9A%E6%95%B0)|
