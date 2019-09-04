@@ -92,7 +92,7 @@
 |0454-四数相加II*<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0454-%E5%9B%9B%E6%95%B0%E7%9B%B8%E5%8A%A0II*)|
 |0461-汉明距离<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0461-%E6%B1%89%E6%98%8E%E8%B7%9D%E7%A6%BB)|
 |0475-供暖器<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0475-%E4%BE%9B%E6%9A%96%E5%99%A8)|
-|0476-数字的补数<br>[【Python3】]()|
+|0476-数字的补数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0476-%E6%95%B0%E5%AD%97%E7%9A%84%E8%A1%A5%E6%95%B0)|
 |0485-最大连续1的个数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0485-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0)|
 |0487-最大连续1的个数 II*<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0487-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20II*)|
 |0498-对角线遍历*<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0498-%E5%AF%B9%E8%A7%92%E7%BA%BF%E9%81%8D%E5%8E%86*)|
@@ -121,6 +121,7 @@
 |0908-最小差值 I<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0908-%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC%20I)|
 |0922-按奇偶排序数组 II<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0922-%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%20II)|
 |0942-增减字符串匹配<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0942-%E5%A2%9E%E5%87%8F%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D)|
+|0961-重复 N 次的元素<br>[【Python3】]()|
 |0977-有序数组的平方<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0977-%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9)|
 |0999-车的可用捕获量<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0999-%E8%BD%A6%E7%9A%84%E5%8F%AF%E7%94%A8%E6%8D%95%E8%8E%B7%E9%87%8F)|
 |1004-最大连续1的个数 III*<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1004-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20III*)|
