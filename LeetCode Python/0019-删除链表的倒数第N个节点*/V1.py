@@ -2,7 +2,7 @@
 @Author: huuuuusy
 @GitHub: https://github.com/huuuuusy
 系统： Ubuntu 18.04
-IDE:  VS Code 1.36
+IDE:  VS Code 1.37
 工具： python == 3.7.3
 """
 
@@ -16,11 +16,11 @@ IDE:  VS Code 1.36
     内存消耗 : 11.8 MB, 在所有 Python3 提交中击败了25.16%的用户
 """
 
-# Definition for singly-linked list.
-# class ListNode(object):
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
+# 定义链表
+class ListNode:
+    def __init__(self,x):
+        self.val = x
+        self.next = None 
 
 class Solution(object):
     def removeNthFromEnd(self, head, n):
@@ -51,3 +51,16 @@ class Solution(object):
         slow.next = slow.next.next
         # 返回删除后的链表
         return dummy.next
+
+if __name__ == "__main__":
+    l1 = ListNode(1)
+    l1.next = ListNode(2)
+    l1.next.next = ListNode(3)
+    l1.next.next.next = ListNode(4)
+    l1.next.next.next.next = ListNode(5)
+    head = l1
+    n = 2
+    res = Solution().removeNthFromEnd(head, n)
+    while res is not None:
+        print(res.val)
+        res = res.next

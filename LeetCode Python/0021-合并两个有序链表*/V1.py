@@ -18,14 +18,14 @@ IDE:  VS Code 1.36
     内存消耗 : 13.9 MB, 在所有 Python3 提交中击败了5.66%的用户
 """
 
-# Definition for singly-linked list.
-# class ListNode(object):
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
+# 定义链表
+class ListNode:
+    def __init__(self,x):
+        self.val = x
+        self.next = None 
 
 class Solution:
-    def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
+    def mergeTwoLists(self, l1, l2):
         # 先排除空链表的情况
         if not l1:
             return l2
@@ -40,7 +40,17 @@ class Solution:
             l2.next = self.mergeTwoLists(l1, l2.next)
             return l2
             
-
+if __name__ == "__main__":
+    l1 = ListNode(1)
+    l1.next = ListNode(2)
+    l1.next.next = ListNode(4)
+    l2 = ListNode(1)
+    l2.next = ListNode(3)
+    l2.next.next = ListNode(4)
+    res = Solution().mergeTwoLists(l1, l2)
+    while res is not None:
+        print(res.val)
+        res = res.next
 
         
         
