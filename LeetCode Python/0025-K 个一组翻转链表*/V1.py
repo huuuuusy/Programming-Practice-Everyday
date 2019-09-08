@@ -59,12 +59,6 @@ class Solution:
             head = tmp        
         return dummy.next
             
-            
-            
-
-            
-
-
 if __name__ == "__main__":
     l1 = ListNode(1)
     l1.next = ListNode(2)
