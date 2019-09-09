@@ -14,11 +14,11 @@ IDE:  VS Code 1.36
     内存消耗 : 13.9 MB, 在所有 Python3 提交中击败了5.4%的用户
 """ 
 
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
+# 定义链表
+class ListNode:
+    def __init__(self,x):
+        self.val = x
+        self.next = None 
 
 class Solution:
     def rotateRight(self, head: ListNode, k: int) -> ListNode:
@@ -43,7 +43,16 @@ class Solution:
             node = node.next
         return head
 
-            
-
-
-
+if __name__ == "__main__":
+    l1 = ListNode(1)
+    l1.next = ListNode(2)
+    l1.next.next = ListNode(3)
+    l1.next.next.next = ListNode(4)
+    l1.next.next.next.next = ListNode(5)
+    #l1.next.next.next.next.next = ListNode(6)
+    head = l1
+    k = 2
+    res = Solution().rotateRight(head, k)
+    while res:
+        print(res.val)
+        res = res.next
