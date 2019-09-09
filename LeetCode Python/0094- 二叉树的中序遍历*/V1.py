@@ -21,14 +21,14 @@ IDE:  VS Code 1.36
 """
 
 # Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.left = None
-#         self.right = None
+class TreeNode:
+    def __init__(self, x):
+        self.val = x
+        self.left = None
+        self.right = None
 
 class Solution:
-    def inorderTraversal(self, root: TreeNode) -> List[int]:
+    def inorderTraversal(self, root):
         if not root:
             return []
         # st目前存储root节点，false表示root节点是子树的代表
@@ -53,3 +53,12 @@ class Solution:
                     st.append((cur.left,False))
         return res
 
+
+
+if __name__ == "__main__":
+    t1 = TreeNode(1)
+    t1.right = t2 = TreeNode(2)
+    t2.left = t3 = TreeNode(3)
+    root = t1
+    res = Solution().inorderTraversal(root)
+    print(res)
