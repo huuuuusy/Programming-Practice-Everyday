@@ -33,8 +33,6 @@
 
 ## 3. [LeetCode](https://leetcode-cn.com/)
 
-<img src="https://progressbadges.herokuapp.com/13" width="10%">
-
 |项目|项目|项目|项目|项目|
 | :--: |:--: |:--: |:--: |:--: |
 |0001-两数之和<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0001-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C)<br>[【C++】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20C%2B%2B/0001-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C)|0002-两数相加<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0002-%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0)|0005-最长回文子串*<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0005-%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2*)|
