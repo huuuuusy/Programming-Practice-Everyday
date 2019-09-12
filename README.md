@@ -33,7 +33,7 @@
 
 ## 3. [LeetCode](https://leetcode-cn.com/)
 
-【进度】155/1170![](http://progressed.io/bar/13.25?title=done)
+<img src="https://progressbadges.herokuapp.com/13" width="10%">
 
 |项目|项目|项目|项目|项目|
 | :--: |:--: |:--: |:--: |:--: |
