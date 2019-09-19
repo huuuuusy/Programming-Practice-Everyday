@@ -17,8 +17,6 @@ IDE:  VS Code 1.37
 class Solution:
     def lengthOfLastWord(self, s):
         return len(s.rstrip().split(" ")[-1])
-        
-
 
 if __name__ == "__main__":
     s = "a "
