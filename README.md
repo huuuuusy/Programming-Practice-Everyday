@@ -76,7 +76,7 @@
 |0249-移位字符串分组<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0249-移位字符串分组)|
 |0256-粉刷房子*<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0256-%E7%B2%89%E5%88%B7%E6%88%BF%E5%AD%90*)|0258-各位相加<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0258-%E5%90%84%E4%BD%8D%E7%9B%B8%E5%8A%A0)|
 |0268-缺失数字<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0268-%E7%BC%BA%E5%A4%B1%E6%95%B0%E5%AD%97)|
-|0276-栅栏涂色<br>[【Python3】]()|0278-第一个错误的版本<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0287-%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC)|
+|0276-栅栏涂色<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0276-%E6%A0%85%E6%A0%8F%E6%B6%82%E8%89%B2)|0278-第一个错误的版本<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0287-%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC)|
 |0283-移动零<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0283-%E7%A7%BB%E5%8A%A8%E9%9B%B6)|
 |0287- 寻找重复数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0287-%20%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E6%95%B0)|
 |0293-翻转游戏<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0293-%E7%BF%BB%E8%BD%AC%E6%B8%B8%E6%88%8F)|
