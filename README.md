@@ -87,6 +87,7 @@
 |0349-两个数组的交集<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0349-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86)|0350-两个数组的交集 II<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0350-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%20II)|
 |0367-有效的完全平方数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0367-%E6%9C%89%E6%95%88%E7%9A%84%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0)|
 |0374-猜数字大小<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0374-%E7%8C%9C%E6%95%B0%E5%AD%97%E5%A4%A7%E5%B0%8F)|
+|0383-赎金信<br>[【Python3】]()|
 |0387-字符串中的第一个唯一字符<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0387-%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6)|
 |0392-判断子序列*[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0392-%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97*)|
 |0414-第三大的数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0414-%E7%AC%AC%E4%B8%89%E5%A4%A7%E7%9A%84%E6%95%B0)|0415-根据字符出现频率排序*<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0415-%E6%A0%B9%E6%8D%AE%E5%AD%97%E7%AC%A6%E5%87%BA%E7%8E%B0%E9%A2%91%E7%8E%87%E6%8E%92%E5%BA%8F*)|
