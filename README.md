@@ -90,6 +90,7 @@
 |0383-赎金信<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0383-%E8%B5%8E%E9%87%91%E4%BF%A1)|
 |0387-字符串中的第一个唯一字符<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0387-%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6)|
 |0392-判断子序列*[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0392-%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97*)|
+|0408-有效单词缩写*<br>[【Python3】]()|
 |0414-第三大的数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0414-%E7%AC%AC%E4%B8%89%E5%A4%A7%E7%9A%84%E6%95%B0)|0415-根据字符出现频率排序*<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0415-%E6%A0%B9%E6%8D%AE%E5%AD%97%E7%AC%A6%E5%87%BA%E7%8E%B0%E9%A2%91%E7%8E%87%E6%8E%92%E5%BA%8F*)|
 |0430- 扁平化多级双向链表<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0430-%20%E6%89%81%E5%B9%B3%E5%8C%96%E5%A4%9A%E7%BA%A7%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8*)|
 |0441-排列硬币<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0441-%E6%8E%92%E5%88%97%E7%A1%AC%E5%B8%81)|
