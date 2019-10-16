@@ -12,8 +12,8 @@ IDE:  VS Code 1.39
 参考：
     https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/solution/hua-dong-chuang-kou-by-powcai/
 结果：
-    执行用时 : 48 ms, 在所有 Python3 提交中击败了91.03%的用户
-    内存消耗 : 13.3 MB, 在所有 Python3 提交中击败了47.28%的用户
+    执行用时 : 96 ms, 在所有 Python3 提交中击败了98.03%的用户
+    内存消耗 : 14.4 MB, 在所有 Python3 提交中击败了15.28%的用户
 """
 
 class Solution:
