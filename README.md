@@ -1,6 +1,6 @@
 # Programming Practice Everyday
 
-## 1. 编程语言
+## 1. 编程语言学习
 
 ### 1.1 Python
 
