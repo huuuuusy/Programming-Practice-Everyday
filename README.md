@@ -152,7 +152,7 @@
 |1150-检查一个数是否在数组中占绝大多数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1150-%E6%A3%80%E6%9F%A5%E4%B8%80%E4%B8%AA%E6%95%B0%E6%98%AF%E5%90%A6%E5%9C%A8%E6%95%B0%E7%BB%84%E4%B8%AD%E5%8D%A0%E7%BB%9D%E5%A4%A7%E5%A4%9A%E6%95%B0)|
 |1165-单行键盘<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1165-%E5%8D%95%E8%A1%8C%E9%94%AE%E7%9B%98)|
 
-DD星号: 本题参考其他人的解法DD
+D: 本题参考其他人的解法
 
 ## 4. [AcWing](https://www.acwing.com/)
 
