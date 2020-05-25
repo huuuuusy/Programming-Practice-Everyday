@@ -7,6 +7,9 @@ IDE:  VS Code
 介绍： 深度之眼《Python高手之路》作业07：闭包函数
 """
 
+import random
+import time
+
 """
 练习一
 编写装饰器，为多个函数加上认证的功能（用户的账号密码来源于文件）。
@@ -54,8 +57,6 @@ def hw1():
 练习二
 编写装饰器，为多个函数加上认证功能，要求登录成功一次，在超时时间内无需重复登录，超过了超时时间，则必须重新登录
 """
-import time
-import random
 
 def hw2():
     user_data = {
@@ -66,9 +67,66 @@ def hw2():
     db_username = 'albert'
     db_password = '123'
     
-    pass
+    def auth(func):
+        def wrapper(*args, **kwargs):
+            passed_time = time.time()-user_data['now_time'] # 计算距离上次登录成功的时间
+
+            if user_data['user'] and passed_time < 3: # 如果存在用户且距离上次成功时间小于指定时长
+                return func(*args, **kwargs)
+            else:
+                while True: # 进入登录环节
+                    username = input('input your username>>: ').strip()
+                    password = input('input your password>>: ').strip()
+                    if username == db_username and password == db_password:
+                        print('login successfully!')
+                        user_data['user'] = username
+                        user_data['login'] = True
+                        user_data['now_time'] = time.time()
+                        return func(*args, **kwargs)
+                    else:
+                        print('username or password is invalid')
+        return wrapper
+        
+    @auth
+    def index():
+        print('This is index page')
+    
+    @auth
+    def home(name):
+        print('Welcome %s to home page' % name)
+    
+    index()
+    time.sleep(random.randint(2, 4)) # 让系统随机休眠2-4秒
+    home('albert')
+
+"""
+练习三
+编写日志装饰器，实现功能：一旦某函数执行，则将函数执行时间写入到日志文件中，日志文件路径可以指定。
+注意：时间格式的获取
+"""
+def hw3():
+    def add_log(file):
+        def wrapper(func):
+            def inner(*args, **kwargs):
+                with open(file, 'a', encoding='utf-8') as f:
+                    f.write('[%s]:[%s]\n' % (func.__name__, time.strftime('%Y-%m-%d %X')))
+                    return func(*args, **kwargs)
+            return inner           
+        return wrapper
+
+    @add_log('db1.txt')
+    def index():
+        print('This is index page')
+    
+    @add_log('db2.txt')
+    def home(name):
+        print('Welcome %s to home page' % name)
+    
+    index()
+    home('albert')
 
 if __name__ == "__main__":
     #hw1()
-    hw2()
+    #hw2()
+    hw3()
                 
