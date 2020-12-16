@@ -8,3 +8,12 @@ IDE:  VS Code
 """
 
 # settings.py为配置文件
+
+import os
+
+BASE_DIR = os.path.dirname(os.path.dirname(__file__)) # 两层dirname嵌套是因为settings.py文件是在conf文件夹内而非直接放在主目录下，所以需要多一层退出conf文件夹
+BASE_DB = os.path.join(BASE_DIR, 'db')
+BASE_LOG = os.path.join(BASE_DIR, 'log')
+
+
+
