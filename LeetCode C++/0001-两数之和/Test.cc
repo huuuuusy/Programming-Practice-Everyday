@@ -1,17 +1,30 @@
 #define CATCH_CONFIG_MAIN
 #include "../Catch2/single_include/catch2/catch.hpp"
-#include "V1.h"
 
-TEST_CASE("Two Sum", "twoSum")
+#include <vector>
+using std::vector;
+#include <unordered_map>
+using std::unordered_map;
+
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        int i,j;
+        for(i = 0; i < nums.size()-1; i++){
+            for(j = i+1; j < nums.size(); j++){
+                if(nums[i] + nums[j] == target){
+                    return {i,j};
+                }
+            }
+        }
+        return {i,j};
+    }
+};
+
+int main()
 {
     Solution s;
-
-    std::vector<int> v1{2, 7, 11, 15};
-    REQUIRE( (s.twoSum(v1, 9) == std::vector<int>{0, 1}) );
-
-    std::vector<int> v2{0, 4, 3, 0};
-    REQUIRE( (s.twoSum(v2, 0) == std::vector<int>{0, 3}) );
-
-    std::vector<int> v3{-3, 4, 3, 90};
-    REQUIRE( (s.twoSum(v3, 0) == std::vector<int>{0, 2}) );
+    vector<int> v1{2, 7, 11, 15};
+    ans = s.twoSum(v1, 9);
+    cout << ans;
 }
