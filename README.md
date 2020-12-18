@@ -1,46 +1,53 @@
 # Programming Practice Everyday
 
-## 1. 编程语言
+## 编程语言
 
-### 1.1 Python
+### Python
 
-#### 《Python编程从入门到实践》
+#### Python编程从入门到实践
 - [x] Chap2-变量和简单的数据类型
 - [x] Chap3&4-列表操作
-- Chap6-字典
-- Chap8-函数
-- Chap9-类
-- Chap10-文件
-- Proj1-Alien Invasion Game
+- [x] Chap6-字典
+- [x] Chap8-函数
+- [x] Chap9-类
+- [x] Chap10-文件
+- [x] Proj1-Alien Invasion Game
 
-#### 1.1.1 《Python编程从入门到实践》
+#### Python高手之路
+- [x] 02流程控制
+- [x] 03数据类型
+- [x] 05文件处理
+- [x] stage1项目
+- [x] 06函数概述
+- [x] 07闭包函数
+- [x] 08迭代生成
+- [x] 09合并表达
+- [x] 10模块对象
+- [] stage2项目
 
-|项目|项目|项目|项目|
-| :--: |:--: |:--: |:--: |
-|[Chap2-变量和简单的数据类型](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap2-%E5%8F%98%E9%87%8F%E5%92%8C%E7%AE%80%E5%8D%95%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)|[Chap3&4-列表操作](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap3%264-%E5%88%97%E8%A1%A8%E6%93%8D%E4%BD%9C)|[Chap3&4-列表操作](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap5%267-%E5%BE%AA%E7%8E%AF)|[Chap6-字典](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap6-%E5%AD%97%E5%85%B8)|
-|[Chap8-函数](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap8-%E5%87%BD%E6%95%B0)|[Chap9-类](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap9-%E7%B1%BB)|[Chap10-文件](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap10-%E6%96%87%E4%BB%B6)|
+#### SYL-Python3
+- [x] exp2-变量和数据类型
+- [x] exp3-运算符和表达式
+- [x] test1-圆的面积
+- [x] exp4-控制流 If-else
+- [x] exp5-循环
+- [x] exp6-数据结构
+- [x] exp7-字符串
+- [x] exp9-文件处理
 
-|项目|介绍|
-| :--: |:--: |
-|[Proj1-Alien Invasion Game](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Proj1-Alien-Invasion-Game)|利用Pygame开发一款有关于外星人入侵的2D射击类游戏|
+### C++
 
-### 1.2 C++
+## 算法和数据结构
 
-## 2. 算法和数据结构
+### 《算法新解》
 
-### 2.1《算法新解》
-
-|章节|内容|
-|:--: |:--: |
-|树|二叉搜索树|
-
-### 2.2 算法精选题解
+### 算法精选题解
 
 |类别|题解|
 |:--: |:--: |
 |基础算法|[常用代码模板1——基础算法](https://www.acwing.com/blog/content/277/)<br>[快速排序](https://www.acwing.com/solution/acwing/content/2096/)<br>[二分查找](https://leetcode-cn.com/problems/search-insert-position/solution/te-bie-hao-yong-de-er-fen-cha-fa-fa-mo-ban-python-/)<br>[动态规划-1](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/dong-tai-gui-hua-she-ji-fang-fa-zhi-pai-you-xi-jia/)<br>[动态规划-2](https://blog.csdn.net/u013309870/article/details/75193592)|
 
-## 3. [LeetCode](https://leetcode-cn.com/)
+## [LeetCode](https://leetcode-cn.com/)
 
 |项目|项目|项目|项目|项目|
 | :--: |:--: |:--: |:--: |:--: |
