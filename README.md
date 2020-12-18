@@ -1,8 +1,18 @@
 # Programming Practice Everyday
 
-## 编程语言
+## Programming Language
 
 ### Python
+
+|Project|Content|
+|:--:|:--: |
+|Python编程从入门到实践|- [x] Chap2-变量和简单的数据类型<br>
+- [x] Chap3&4-列表操作<br>
+- [x] Chap6-字典<br>
+- [x] Chap8-函数<br>
+- [x] Chap9-类<br>
+- [x] Chap10-文件<br>
+- [x] Proj1-Alien Invasion Game|
 
 #### Python编程从入门到实践
 - [x] Chap2-变量和简单的数据类型
@@ -23,7 +33,7 @@
 - [x] 08迭代生成
 - [x] 09合并表达
 - [x] 10模块对象
-- [] stage2项目
+- [ ] stage2项目
 
 #### SYL-Python3
 - [x] exp2-变量和数据类型
