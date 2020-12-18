@@ -1,19 +1,28 @@
 # Programming Practice Everyday
 
-## 1. 编程语言学习
+## 1. 编程语言
 
 ### 1.1 Python
+
+#### 《Python编程从入门到实践》
+- [x] Chap2-变量和简单的数据类型
+- [x] Chap3&4-列表操作
+- Chap6-字典
+- Chap8-函数
+- Chap9-类
+- Chap10-文件
+- Proj1-Alien Invasion Game
 
 #### 1.1.1 《Python编程从入门到实践》
 
 |项目|项目|项目|项目|
 | :--: |:--: |:--: |:--: |
-|[Chap2-变量和简单的数据类型](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap2-%E5%8F%98%E9%87%8F%E5%92%8C%E7%AE%80%E5%8D%95%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)|[Chap3&4-列表操作](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap3%264-%E5%88%97%E8%A1%A8%E6%93%8D%E4%BD%9C)|[Chap5&7-循环](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap5%267-%E5%BE%AA%E7%8E%AF)|[Chap6-字典](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap6-%E5%AD%97%E5%85%B8)|
+|[Chap2-变量和简单的数据类型](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap2-%E5%8F%98%E9%87%8F%E5%92%8C%E7%AE%80%E5%8D%95%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)|[Chap3&4-列表操作](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap3%264-%E5%88%97%E8%A1%A8%E6%93%8D%E4%BD%9C)|[Chap3&4-列表操作](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap5%267-%E5%BE%AA%E7%8E%AF)|[Chap6-字典](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap6-%E5%AD%97%E5%85%B8)|
 |[Chap8-函数](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap8-%E5%87%BD%E6%95%B0)|[Chap9-类](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap9-%E7%B1%BB)|[Chap10-文件](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Chap10-%E6%96%87%E4%BB%B6)|
 
-|项目|介绍|日期|
-| :--: |:--: |:--:|
-|[Proj1-Alien Invasion Game](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Proj1-Alien-Invasion-Game)|利用Pygame开发一款有关于外星人入侵的2D射击类游戏|190704【V1完成】|
+|项目|介绍|
+| :--: |:--: |
+|[Proj1-Alien Invasion Game](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Python%20Learning/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5/Proj1-Alien-Invasion-Game)|利用Pygame开发一款有关于外星人入侵的2D射击类游戏|
 
 ### 1.2 C++
 
