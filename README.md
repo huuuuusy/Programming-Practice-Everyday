@@ -2,186 +2,156 @@
 
 ## Programming Language
 
-### Python
+### [Python3](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Language/Python3)
 
-|Project|Content|
-|:--:|:--: |
-|Python编程从入门到实践|- [x] Chap2-变量和简单的数据类型<br>
-- [x] Chap3&4-列表操作<br>
-- [x] Chap6-字典<br>
-- [x] Chap8-函数<br>
-- [x] Chap9-类<br>
-- [x] Chap10-文件<br>
-- [x] Proj1-Alien Invasion Game|
+- [X] [Python编程从入门到实践](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Language/Python3/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5)
+- [ ] [Python高手之路](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Language/Python3/Python%E9%AB%98%E6%89%8B%E4%B9%8B%E8%B7%AF)
+- [ ] [SYL-Python3](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Language/Python3/SYL-Python3)
 
-#### Python编程从入门到实践
-- [x] Chap2-变量和简单的数据类型
-- [x] Chap3&4-列表操作
-- [x] Chap6-字典
-- [x] Chap8-函数
-- [x] Chap9-类
-- [x] Chap10-文件
-- [x] Proj1-Alien Invasion Game
+### [C++](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Language/C%2B%2B)
 
-#### Python高手之路
-- [x] 02流程控制
-- [x] 03数据类型
-- [x] 05文件处理
-- [x] stage1项目
-- [x] 06函数概述
-- [x] 07闭包函数
-- [x] 08迭代生成
-- [x] 09合并表达
-- [x] 10模块对象
-- [ ] stage2项目
+- [ ] [C++ Primer(V5)](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Language/C%2B%2B/C%2B%2B%20Primer(V5))
 
-#### SYL-Python3
-- [x] exp2-变量和数据类型
-- [x] exp3-运算符和表达式
-- [x] test1-圆的面积
-- [x] exp4-控制流 If-else
-- [x] exp5-循环
-- [x] exp6-数据结构
-- [x] exp7-字符串
-- [x] exp9-文件处理
+## Algorithm
 
-### C++
+- [ ] [算法新解](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Algorithm/%E7%AE%97%E6%B3%95%E6%96%B0%E8%A7%A3)
 
-## 算法和数据结构
+算法精选题解
 
-### 《算法新解》
+- [快速排序](https://www.acwing.com/solution/acwing/content/2096/)
+- [二分查找](https://leetcode-cn.com/problems/search-insert-position/solution/te-bie-hao-yong-de-er-fen-cha-fa-fa-mo-ban-python-/)
+- [动态规划-1](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/dong-tai-gui-hua-she-ji-fang-fa-zhi-pai-you-xi-jia/)
+- [动态规划-2](https://blog.csdn.net/u013309870/article/details/75193592)
 
-### 算法精选题解
-
-|类别|题解|
-|:--: |:--: |
-|基础算法|[常用代码模板1——基础算法](https://www.acwing.com/blog/content/277/)<br>[快速排序](https://www.acwing.com/solution/acwing/content/2096/)<br>[二分查找](https://leetcode-cn.com/problems/search-insert-position/solution/te-bie-hao-yong-de-er-fen-cha-fa-fa-mo-ban-python-/)<br>[动态规划-1](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/dong-tai-gui-hua-she-ji-fang-fa-zhi-pai-you-xi-jia/)<br>[动态规划-2](https://blog.csdn.net/u013309870/article/details/75193592)|
 
 ## [LeetCode](https://leetcode-cn.com/)
 
+### Python3
 |项目|项目|项目|项目|项目|
 | :--: |:--: |:--: |:--: |:--: |
-|0001-两数之和<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0001-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C)<br>[【C++】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20C%2B%2B/0001-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C)|0002-两数相加<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0002-%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0)|0003-无重复字符的最长子串<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0003-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2)|0005-最长回文子串D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0005-%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2D)|
-|0007-整数反转<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0007-%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC)|0008-字符串转换整数 (atoi)<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0008-%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0%20(atoi))|0009-回文数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0009-%E5%9B%9E%E6%96%87%E6%95%B0)|
-|0011-盛水最多的容器<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0011-%E7%9B%9B%E6%B0%B4%E6%9C%80%E5%A4%9A%E7%9A%84%E5%AE%B9%E5%99%A8)|0012-整数转罗马数字D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0012-%E6%95%B4%E6%95%B0%E8%BD%AC%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97D)|0013-罗马数字转整数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0013-%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0)|0014-最长公共前缀<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0014-%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80)|0015-三数之和D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0015-%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8CD)|
-|0016-最接近的三数之和<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0016-%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9A%84%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C)|0018-四数之和D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0018-%20%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8CD)|0019-删除链表的倒数第N个节点<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0019-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9D)|0020-有效的括号<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0020-%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7)|
-|0021-合并个有序链表D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0021-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8D)|0023-合并K个排序链表D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0023-%E5%90%88%E5%B9%B6K%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8D)|0024- 两两交换链表中的节点<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0024-%20%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9)|0025-K 个一组翻转链表D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0025-K%20%E4%B8%AA%E4%B8%80%E7%BB%84%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8D)|
-|0026-删除有序数组中的重复项<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0026-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9)|0027-移除元素<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0027-%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0)|0028-实现strStr<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0028-%E5%AE%9E%E7%8E%B0strStr)|0029-两数相除D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0029-%E4%B8%A4%E6%95%B0%E7%9B%B8%E9%99%A4D)|
-|0033-搜索旋转排序数组<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0033-%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84)|0035-搜索插入位置<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0035-%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE)|
-|0036-有效的数独<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0036-%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC)|0038-报数D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0038-%E6%8A%A5%E6%95%B0D)|
-|0048-旋转图像D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0048-%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8FD)|0049-字母异位词分组D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0049-%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84D)|
-|0053-最大子序和D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0053-%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8CD)|0054-螺旋矩阵<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0054-%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5)|
-|0058- 最后一个单词的长度<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0058-%20%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E7%9A%84%E9%95%BF%E5%BA%A6)|
-|0061-旋转链表<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0061-%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8)|0062-不同路径D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0062-%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84D)|0063-不同路径 IID<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0063-%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84%20IID)|
-|0066-加一<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0066-%E5%8A%A0%E4%B8%80)|0067-二进制求和<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0067-%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C)|0069-x 的平方根<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0069-x%20%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9)|0070-爬楼梯<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0070-%E7%88%AC%E6%A5%BC%E6%A2%AF)|
-|0075-颜色分类<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0075-%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB)|
-|0076-最小覆盖子串D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0076-%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2D)|0080-删除排序数组中的重复项 II<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0080-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9%20II)|
-|0082-删除排序链表中的重复元素 II<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0082-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20II)|0083-删除排序链表中的重复元素<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0083-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0)|
-|0088-合并两个有序数组<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0088-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84)|
-|0094- 二叉树的中序遍历D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0094-%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86D)|0095-不同的二叉搜索树 IID<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0095-%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%20IID)|
-|0096-不同的二叉搜索树D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0096-%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91D)|0098-验证二叉搜索树<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0098-%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91)|0100-相同的树<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0100-%E7%9B%B8%E5%90%8C%E7%9A%84%E6%A0%91)|
-|0101-对称二叉树D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0101-%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91D)|0104-二叉树的最大深度D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0104-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6D)|
-|0118-杨辉三角<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0118-%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92)|0119-杨辉三角2<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0119-%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%922)|
-|0121-买股票的最佳时机D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0121-%E4%B9%B0%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BAD)|0122-买卖股票的最佳时机 IID<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0122-%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20IID)|0125-验证回文串<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0125-%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2)|
-|0136-只出现一次的数字<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0136-%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97)|0138-复制带随机指针的链表D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0138-%E5%A4%8D%E5%88%B6%E5%B8%A6%E9%9A%8F%E6%9C%BA%E6%8C%87%E9%92%88%E7%9A%84%E9%93%BE%E8%A1%A8D)|
-|0141-环形链表<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0141-%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8)|0142-环形链表II<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0142-%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II)<br>|0144-二叉树的前序遍历D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0144-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86D)|0145-二叉树的后序遍历D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0145-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86D)|
-|0148-排序链表<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0148-%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8)|0149-直线上最多的点数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0149-%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%9C%80%E5%A4%9A%E7%9A%84%E7%82%B9%E6%95%B0)|
-|0151-翻转字符串里的单词<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0151-%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D)|0153-寻找旋转排序数组中的最小值)<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0153-%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC)|0154- 寻找旋转排序数组中的最小值 II<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0154-%20%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC%20II)|
-|0160-相交链表D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0160-%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8D)|
-|0166-分数到小数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0166-%E5%88%86%E6%95%B0%E5%88%B0%E5%B0%8F%E6%95%B0)|0167-两数之和 II - 输入有序数组<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0167-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84)|0168- Excel表列名称<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0168-%20Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0)|0169-求众数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0169-%E6%B1%82%E4%BC%97%E6%95%B0)|
-|0171-Excel表列序号<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0171-Excel%E8%A1%A8%E5%88%97%E5%BA%8F%E5%8F%B7)|0172-阶乘后的零D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0172-%E9%98%B6%E4%B9%98%E5%90%8E%E7%9A%84%E9%9B%B6D)｜
-|0186-翻转字符串里的单词 II<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0186-%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D%20II)|0189-旋转数组<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0189-%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84)|
-|0198-打家劫舍<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0198-%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D)|
-|0202-快乐数D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0202-%E5%BF%AB%E4%B9%90%E6%95%B0D)|0203- 移除链表元素<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0203-%20%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0)|0204-计数质数D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0204-%E8%AE%A1%E6%95%B0%E8%B4%A8%E6%95%B0D)|0205- 同构字符串<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0205-%20%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2)|
-|0206-反转链表D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0206-%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8D)|0209-长度最小的子数组<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0209-%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84)|
-|0215-数组中的第K个最大元素<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0215-%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0)|
-|0217-存在重复元素<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0217-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0)|0219-存在重复元素 II<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0219-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20II)|0220-存在重复元素 III<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0220-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20III)|
-|0234-回文链表<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0234-%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8)|
-|0237-删除链表中的节点<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0237-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9)|0240-搜索二维矩阵 II<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0240-%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5%20II)|
-|0242-有效的字母异位词<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0242-%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D)|0243-最短单词距离<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0243-%E6%9C%80%E7%9F%AD%E5%8D%95%E8%AF%8D%E8%B7%9D%E7%A6%BB)|
-|0246-中心对称数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0246-%E4%B8%AD%E5%BF%83%E5%AF%B9%E7%A7%B0%E6%95%B0)|0249-移位字符串分组<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0249-移位字符串分组)|
-|0256-粉刷房子D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0256-%E7%B2%89%E5%88%B7%E6%88%BF%E5%AD%90D)|0258-各位相加<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0258-%E5%90%84%E4%BD%8D%E7%9B%B8%E5%8A%A0)|
-|0268-缺失数字<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0268-%E7%BC%BA%E5%A4%B1%E6%95%B0%E5%AD%97)|
-|0276-栅栏涂色<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0276-%E6%A0%85%E6%A0%8F%E6%B6%82%E8%89%B2)|0278-第一个错误的版本<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0287-%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC)|
-|0283-移动零<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0283-%E7%A7%BB%E5%8A%A8%E9%9B%B6)|
-|0287- 寻找重复数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0287-%20%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E6%95%B0)|
-|0293-翻转游戏<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0293-%E7%BF%BB%E8%BD%AC%E6%B8%B8%E6%88%8F)|
-|0300-最长上升子序列D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0300-%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97D)|
-|0303-区域和检索 - 数组不可变D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0303-%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2%20-%20%E6%95%B0%E7%BB%84%E4%B8%8D%E5%8F%AF%E5%8F%98D)|
-|0328-奇偶链表D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0328-%E5%A5%87%E5%81%B6%E9%93%BE%E8%A1%A8D)|
-|0344-反转字符串<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0344-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2)|0345-反转字符串中的元音字母<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0345-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3%E5%AD%97%E6%AF%8D)|
-|0349-两个数组的交集<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0349-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86)|0350-两个数组的交集 II<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0350-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%20II)|
-|0367-有效的完全平方数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0367-%E6%9C%89%E6%95%88%E7%9A%84%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0)|
-|0374-猜数字大小<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0374-%E7%8C%9C%E6%95%B0%E5%AD%97%E5%A4%A7%E5%B0%8F)|
-|0383-赎金信<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0383-%E8%B5%8E%E9%87%91%E4%BF%A1)|
-|0387-字符串中的第一个唯一字符<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0387-%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6)|
-|0392-判断子序列D[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0392-%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97D)|
-|0408-有效单词缩写D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0408-%E6%9C%89%E6%95%88%E5%8D%95%E8%AF%8D%E7%BC%A9%E5%86%99D)|
-|0414-第三大的数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0414-%E7%AC%AC%E4%B8%89%E5%A4%A7%E7%9A%84%E6%95%B0)|0415-根据字符出现频率排序D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0415-%E6%A0%B9%E6%8D%AE%E5%AD%97%E7%AC%A6%E5%87%BA%E7%8E%B0%E9%A2%91%E7%8E%87%E6%8E%92%E5%BA%8FD)|
-|0430- 扁平化多级双向链表<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0430-%20%E6%89%81%E5%B9%B3%E5%8C%96%E5%A4%9A%E7%BA%A7%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8D)|
-|0441-排列硬币<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0441-%E6%8E%92%E5%88%97%E7%A1%AC%E5%B8%81)|
-|0447-回旋镖的数量D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0447-%E5%9B%9E%E6%97%8B%E9%95%96%E7%9A%84%E6%95%B0%E9%87%8FD)|0448-找到所有数组中消失的数字<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0448-%E6%89%BE%E5%88%B0%E6%89%80%E6%9C%89%E6%95%B0%E7%BB%84%E4%B8%AD%E6%B6%88%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97)|
-|0454-四数相加IID<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0454-%E5%9B%9B%E6%95%B0%E7%9B%B8%E5%8A%A0IID)|
-|0461-汉明距离<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0461-%E6%B1%89%E6%98%8E%E8%B7%9D%E7%A6%BB)|
-|0475-供暖器<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0475-%E4%BE%9B%E6%9A%96%E5%99%A8)|
-|0476-数字的补数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0476-%E6%95%B0%E5%AD%97%E7%9A%84%E8%A1%A5%E6%95%B0)|
-|0485-最大连续1的个数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0485-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0)|
-|0487-最大连续1的个数 IID<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0487-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20IID)|
-|0498-对角线遍历D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0498-%E5%AF%B9%E8%A7%92%E7%BA%BF%E9%81%8D%E5%8E%86D)|
-|0509-斐波那契数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0509-%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0)|
-|0520-检测大写字母<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0520-%E6%A3%80%E6%B5%8B%E5%A4%A7%E5%86%99%E5%AD%97%E6%AF%8D)|
-|0521-最长特殊序列 Ⅰ<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0521-%E6%9C%80%E9%95%BF%E7%89%B9%E6%AE%8A%E5%BA%8F%E5%88%97%20%E2%85%A0)|
-|0532-数组中的K-diff数对<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0532-%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84K-diff%E6%95%B0%E5%AF%B9)|
-|0557-反转字符串中的单词 IIID<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0557-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20IIID)|
-|0561-数组拆分1<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0561-%E6%95%B0%E7%BB%84%E6%8B%86%E5%88%861)|
-|0566-重塑矩阵<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0566-%E9%87%8D%E5%A1%91%E7%9F%A9%E9%98%B5)|
-|0581-最短无序连续子数组<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0581-%E6%9C%80%E7%9F%AD%E6%97%A0%E5%BA%8F%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84)|
-|0599-两个列表的最小索引总和<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0599-%E4%B8%A4%E4%B8%AA%E5%88%97%E8%A1%A8%E7%9A%84%E6%9C%80%E5%B0%8F%E7%B4%A2%E5%BC%95%E6%80%BB%E5%92%8C)|
-|0605-种花问题D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0605-%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98D)|
-|0624-数组列表中的最大距离<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0624-%E6%95%B0%E7%BB%84%E5%88%97%E8%A1%A8%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E8%B7%9D%E7%A6%BB))|
-|0628-三个数的最大乘积<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0628-%E4%B8%89%E4%B8%AA%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E4%B9%98%E7%A7%AF)|
-|0643-子数组最大平均数 I<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0643-%E5%AD%90%E6%95%B0%E7%BB%84%E6%9C%80%E5%A4%A7%E5%B9%B3%E5%9D%87%E6%95%B0%20I)|
-|0657-机器人能否返回原点<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0657-%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%BD%E5%90%A6%E8%BF%94%E5%9B%9E%E5%8E%9F%E7%82%B9)|
-|0661-图片平滑器<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0661-%E5%9B%BE%E7%89%87%E5%B9%B3%E6%BB%91%E5%99%A8)|0665-非递减数列D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0665-%E9%9D%9E%E9%80%92%E5%87%8F%E6%95%B0%E5%88%97D)|
-|0674-最长连续递增序列<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0674-%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97)|
-|0702-搜索长度未知的有序数组<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0702-%E6%90%9C%E7%B4%A2%E9%95%BF%E5%BA%A6%E6%9C%AA%E7%9F%A5%E7%9A%84%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84)|0704-二分查找<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0704-%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE)|0705-设计哈希集合D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0705-%E8%AE%BE%E8%AE%A1%E5%93%88%E5%B8%8C%E9%9B%86%E5%90%88D)|
-|0706-设计哈希映射D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0706-%E8%AE%BE%E8%AE%A1%E5%93%88%E5%B8%8C%E6%98%A0%E5%B0%84D)|0707-设计链表D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0707-%E8%AE%BE%E8%AE%A1%E9%93%BE%E8%A1%A8D)|0709-转换成小写字母<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0709-%E8%BD%AC%E6%8D%A2%E6%88%90%E5%B0%8F%E5%86%99%E5%AD%97%E6%AF%8D)|
-|0724-寻找数组的中心索引D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0724-%E5%AF%BB%E6%89%BE%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E5%BF%83%E7%B4%A2%E5%BC%95D)|
-|0728-自除数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0728-%E8%87%AA%E9%99%A4%E6%95%B0)|
-|0744-寻找比目标字母大的最小字母<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0744-%E5%AF%BB%E6%89%BE%E6%AF%94%E7%9B%AE%E6%A0%87%E5%AD%97%E6%AF%8D%E5%A4%A7%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%97%E6%AF%8D)|
-|0746-使用最小花费爬楼梯<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0746-%E4%BD%BF%E7%94%A8%E6%9C%80%E5%B0%8F%E8%8A%B1%E8%B4%B9%E7%88%AC%E6%A5%BC%E6%A2%AF)|0747-至少是其他数字两倍的最大数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0747-%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0#0747-%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0)|
-|0760-找出变位映射<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0760-%E6%89%BE%E5%87%BA%E5%8F%98%E4%BD%8D%E6%98%A0%E5%B0%84)|
-|0771-宝石与石头<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0771-%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%9F%B3%E5%A4%B4)|
-|0814-唯一摩尔斯密码词<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/Le【Python3】etCode%20Python/0814-%E5%94%AF%E4%B8%80%E6%91%A9%E5%B0%94%E6%96%AF%E5%AF%86%E7%A0%81%E8%AF%8D)|
-|0821- 字符的最短距离<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0821-%20%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E7%9F%AD%E8%B7%9D%E7%A6%BB)|
-|0832-翻转图像<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0832-%E7%BF%BB%E8%BD%AC%E5%9B%BE%E5%83%8F)|
-|0852-山脉数组的峰顶索引<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0852-%E5%B1%B1%E8%84%89%E6%95%B0%E7%BB%84%E7%9A%84%E5%B3%B0%E9%A1%B6%E7%B4%A2%E5%BC%95)|
-|0867-转置矩阵<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0867-%E8%BD%AC%E7%BD%AE%E7%9F%A9%E9%98%B5)
-|0876-链表的中间结点<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0876-%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9)|
-|0893-特殊等价字符串组D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0893-%E7%89%B9%E6%AE%8A%E7%AD%89%E4%BB%B7%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%BB%84D)|
-|0905-按奇偶排序数组<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0905-%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84)|
-|0908-最小差值 I<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0908-%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC%20I)|
-|0922-按奇偶排序数组 II<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0922-%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%20II)|
-|0942-增减字符串匹配<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0942-%E5%A2%9E%E5%87%8F%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D)|
-|0961-重复 N 次的元素<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0961-%E9%87%8D%E5%A4%8D%20N%20%E6%AC%A1%E7%9A%84%E5%85%83%E7%B4%A0)|
-|0977-有序数组的平方<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0977-%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9)|
-|0999-车的可用捕获量<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/0999-%E8%BD%A6%E7%9A%84%E5%8F%AF%E7%94%A8%E6%8D%95%E8%8E%B7%E9%87%8F)|
-|1002- 查找常用字符<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1002-%20%E6%9F%A5%E6%89%BE%E5%B8%B8%E7%94%A8%E5%AD%97%E7%AC%A6)|1004-最大连续1的个数 IIID<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1004-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20IIID)|
-|1025-除数博弈D<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1025-%E9%99%A4%E6%95%B0%E5%8D%9A%E5%BC%88D)|
-|1051-高度检查器<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1051-%E9%AB%98%E5%BA%A6%E6%A3%80%E6%9F%A5%E5%99%A8)|
-|1064-不动点<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1064-%E4%B8%8D%E5%8A%A8%E7%82%B9)<br>[【C++】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20C%2B%2B/1064-%E4%B8%8D%E5%8A%A8%E7%82%B9)|
-|1085-最小元素各数位之和<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1085-%E6%9C%80%E5%B0%8F%E5%85%83%E7%B4%A0%E5%90%84%E6%95%B0%E4%BD%8D%E4%B9%8B%E5%92%8C)|
-|1086-前五科平均分<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1086-%E5%89%8D%E4%BA%94%E7%A7%91%E5%B9%B3%E5%9D%87%E5%88%86)|
-|1108-IP 地址无效化<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1108-IP%20%E5%9C%B0%E5%9D%80%E6%97%A0%E6%95%88%E5%8C%96)|
-|1119-删去字符串中的元音<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1119-%E5%88%A0%E5%8E%BB%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3)|
-|1133-最大唯一数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1133-%E6%9C%80%E5%A4%A7%E5%94%AF%E4%B8%80%E6%95%B0)|1134-阿姆斯特朗数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1134-%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E6%9C%97%E6%95%B0)|
-|1150-检查一个数是否在数组中占绝大多数<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1150-%E6%A3%80%E6%9F%A5%E4%B8%80%E4%B8%AA%E6%95%B0%E6%98%AF%E5%90%A6%E5%9C%A8%E6%95%B0%E7%BB%84%E4%B8%AD%E5%8D%A0%E7%BB%9D%E5%A4%A7%E5%A4%9A%E6%95%B0)|
-|1165-单行键盘<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode%20Python/1165-%E5%8D%95%E8%A1%8C%E9%94%AE%E7%9B%98)|
+|0001-两数之和|0002-两数相加|0003-无重复字符的最长子串|0005-最长回文子串D|
+|0007-整数反转|0008-字符串转换整数 (atoi)|0009-回文数|
+|0011-盛水最多的容器|0012-整数转罗马数字D|0013-罗马数字转整数|0014-最长公共前缀|0015-三数之和D|
+|0016-最接近的三数之和|0018-四数之和D|0019-删除链表的倒数第N个节点|0020-有效的括号|
+|0021-合并个有序链表D|0023-合并K个排序链表D|0024- 两两交换链表中的节点)|0025-K 个一组翻转链表D|
+|0026-删除有序数组中的重复项|0027-移除元素|0028-实现strStr|0029-两数相除D|
+|0033-搜索旋转排序数组|0035-搜索插入位置|
+|0036-有效的数独|0038-报数D|
+|0048-旋转图像D|0049-字母异位词分组D|
+|0053-最大子序和D|0054-螺旋矩阵|
+|0058- 最后一个单词的长度|
+|0061-旋转链表|0062-不同路径D|0063-不同路径 IID|
+|0066-加一|0067-二进制求和|0069-x 的平方根|0070-爬楼梯|
+|0075-颜色分类|
+|0076-最小覆盖子串D|0080-删除排序数组中的重复项 II|
+|0082-删除排序链表中的重复元素 II|0083-删除排序链表中的重复元素|
+|0088-合并两个有序数组|
+|0094- 二叉树的中序遍历D|0095-不同的二叉搜索树 IID|
+|0096-不同的二叉搜索树D|0098-验证二叉搜索树|0100-相同的树|
+|0101-对称二叉树D|0104-二叉树的最大深度D|
+|0118-杨辉三角|0119-杨辉三角2|
+|0121-买股票的最佳时机D|0122-买卖股票的最佳时机 IID|0125-验证回文串|
+|0136-只出现一次的数字|0138-复制带随机指针的链表D|
+|0141-环形链表|0142-环形链表II|0144-二叉树的前序遍历D|0145-二叉树的后序遍历D|
+|0148-排序链表|0149-直线上最多的点数|
+|0151-翻转字符串里的单词|0153-寻找旋转排序数组中的最小值)|0154- 寻找旋转排序数组中的最小值 II|
+|0160-相交链表D|
+|0166-分数到小数|0167-两数之和 II - 输入有序数组|0168- Excel表列名称|0169-求众数|
+|0171-Excel表列序号|0172-阶乘后的零D｜
+|0186-翻转字符串里的单词 II|0189-旋转数组|
+|0198-打家劫舍|
+|0202-快乐数D|0203- 移除链表元素|0204-计数质数D|0205- 同构字符串|
+|0206-反转链表D|0209-长度最小的子数组|
+|0215-数组中的第K个最大元素|
+|0217-存在重复元素|0219-存在重复元素 II|0220-存在重复元素 III|
+|0234-回文链表|
+|0237-删除链表中的节点|0240-搜索二维矩阵 II|
+|0242-有效的字母异位词|0243-最短单词距离|
+|0246-中心对称数|0249-移位字符串分组|
+|0256-粉刷房子D|0258-各位相加|
+|0268-缺失数字|
+|0276-栅栏涂色|0278-第一个错误的版本|
+|0283-移动零|
+|0287- 寻找重复数|
+|0293-翻转游戏|
+|0300-最长上升子序列D|
+|0303-区域和检索 - 数组不可变D|
+|0328-奇偶链表D|
+|0344-反转字符串|0345-反转字符串中的元音字母|
+|0349-两个数组的交集|0350-两个数组的交集 II|
+|0367-有效的完全平方数|
+|0374-猜数字大小|
+|0383-赎金信|
+|0387-字符串中的第一个唯一字符|
+|0392-判断子序列D|
+|0408-有效单词缩写D|
+|0414-第三大的数|0415-根据字符出现频率排序D|
+|0430- 扁平化多级双向链表|
+|0441-排列硬币|
+|0447-回旋镖的数量D|0448-找到所有数组中消失的数字|
+|0454-四数相加IID|
+|0461-汉明距离|
+|0475-供暖器|
+|0476-数字的补数|
+|0485-最大连续1的个数|
+|0487-最大连续1的个数 IID|
+|0498-对角线遍历D|
+|0509-斐波那契数|
+|0520-检测大写字母|
+|0521-最长特殊序列|
+|0532-数组中的K-diff数对|
+|0557-反转字符串中的单词 IIID|
+|0561-数组拆分1|
+|0566-重塑矩阵|
+|0581-最短无序连续子数组|
+|0599-两个列表的最小索引总和|
+|0605-种花问题D|
+|0624-数组列表中的最大距离|
+|0628-三个数的最大乘积|
+|0643-子数组最大平均数 I|
+|0657-机器人能否返回原点|
+|0661-图片平滑器|0665-非递减数列D|
+|0674-最长连续递增序列|
+|0702-搜索长度未知的有序数组|0704-二分查找|0705-设计哈希集合D|
+|0706-设计哈希映射D|0707-设计链表D|0709-转换成小写字母|
+|0724-寻找数组的中心索引D|
+|0728-自除数|
+|0744-寻找比目标字母大的最小字母|
+|0746-使用最小花费爬楼梯|0747-至少是其他数字两倍的最大数|
+|0760-找出变位映射|
+|0771-宝石与石头|
+|0814-唯一摩尔斯密码词|
+|0821- 字符的最短距离|
+|0832-翻转图像|
+|0852-山脉数组的峰顶索引|
+|0867-转置矩阵|
+|0876-链表的中间结点|
+|0893-特殊等价字符串组D|
+|0905-按奇偶排序数组|
+|0908-最小差值 I|
+|0922-按奇偶排序数组 II|
+|0942-增减字符串匹配|
+|0961-重复 N 次的元素|
+|0977-有序数组的平方|
+|0999-车的可用捕获量|
+|1002- 查找常用字符|1004-最大连续1的个数 IIID|
+|1025-除数博弈D|
+|1051-高度检查器|
+|1064-不动点|
+|1085-最小元素各数位之和|
+|1086-前五科平均分|
+|1108-IP 地址无效化|
+|1119-删去字符串中的元音|
+|1133-最大唯一数|1134-阿姆斯特朗数|
+|1150-检查一个数是否在数组中占绝大多数|
+|1165-单行键盘|
 
 D: 本题参考其他人的解法
 
-## 4. [AcWing](https://www.acwing.com/)
+### C++
+
+## [AcWing](https://www.acwing.com/)
 
 |项目|项目|项目|项目|项目|
 | :--: |:--: |:--: |:--: |:--: |
-|0785-快速排序<br>[【Python3】](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/AcWing%20Python/0785-%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F)|
+|0785-快速排序|
