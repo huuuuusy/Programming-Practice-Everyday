@@ -26,7 +26,7 @@
 
 ## [LeetCode](https://leetcode-cn.com/)
 
-### Python3
+### [Python3](https://github.com/huuuuusy/Programming-Practice-Everyday/tree/master/LeetCode/Python3)
 |项目|项目|项目|项目|项目|
 | :--: |:--: |:--: |:--: |:--: |
 |0001-两数之和|0002-两数相加|0003-无重复字符的最长子串|0005-最长回文子串D|
